@@ -1,0 +1,2077 @@
+,SCHOOL_DISTRCT_CD,SCHOOL_DSTRCT_NM,TEST_CMPNT_TYP_CD,STATE_AVG_SCORE_VAL,DSTRCT_AVG_SCORE_VAL,Bracket
+0,601,Appling County,Composite,21.0,20.8,Average
+2,601,Appling County,Mathematics,20.4,20.4,Average
+3,601,Appling County,Reading,21.7,22.0,Average
+4,601,Appling County,Science,21.0,20.1,Average
+5,601,Appling County,Writing Subscore,6.9,,0
+6,602,Atkinson County,Composite,21.0,,0
+8,602,Atkinson County,Mathematics,20.4,,0
+9,602,Atkinson County,Reading,21.7,,0
+10,602,Atkinson County,Science,21.0,,0
+11,602,Atkinson County,Writing Subscore,6.9,,0
+12,603,Bacon County,Composite,21.0,16.6,Below Average
+14,603,Bacon County,Mathematics,20.4,16.5,Below Average
+15,603,Bacon County,Reading,21.7,17.1,Below Average
+16,603,Bacon County,Science,21.0,16.7,Below Average
+17,603,Bacon County,Writing Subscore,6.9,,0
+18,604,Baker County,Composite,21.0,,0
+20,604,Baker County,Mathematics,20.4,,0
+21,604,Baker County,Reading,21.7,,0
+22,604,Baker County,Science,21.0,,0
+23,605,Baldwin County,Composite,21.0,17.9,Below Average
+25,605,Baldwin County,Mathematics,20.4,17.3,Below Average
+26,605,Baldwin County,Reading,21.7,18.5,Below Average
+27,605,Baldwin County,Science,21.0,18.2,Below Average
+28,605,Baldwin County,Writing Subscore,6.9,6.5,Average
+29,606,Banks County,Composite,21.0,20.1,Average
+31,606,Banks County,Mathematics,20.4,19.1,Average
+32,606,Banks County,Reading,21.7,20.9,Average
+33,606,Banks County,Science,21.0,20.1,Average
+34,606,Banks County,Writing Subscore,6.9,6.9,Average
+35,607,Barrow County,Composite,21.0,19.5,Average
+37,607,Barrow County,Mathematics,20.4,19.4,Average
+38,607,Barrow County,Reading,21.7,20.2,Average
+39,607,Barrow County,Science,21.0,20.0,Average
+40,607,Barrow County,Writing Subscore,6.9,6.4,Average
+41,607,Barrow County,Composite,21.0,19.5,Average
+43,607,Barrow County,Mathematics,20.4,19.4,Average
+44,607,Barrow County,Reading,21.7,20.2,Average
+45,607,Barrow County,Science,21.0,20.0,Average
+46,607,Barrow County,Writing Subscore,6.9,6.4,Average
+47,608,Bartow County,Composite,21.0,20.3,Average
+49,608,Bartow County,Mathematics,20.4,19.3,Average
+50,608,Bartow County,Reading,21.7,21.1,Average
+51,608,Bartow County,Science,21.0,20.5,Average
+52,608,Bartow County,Writing Subscore,6.9,6.6,Average
+53,608,Bartow County,Composite,21.0,20.3,Average
+55,608,Bartow County,Mathematics,20.4,19.3,Average
+56,608,Bartow County,Reading,21.7,21.1,Average
+57,608,Bartow County,Science,21.0,20.5,Average
+58,608,Bartow County,Writing Subscore,6.9,6.6,Average
+59,608,Bartow County,Composite,21.0,20.3,Average
+61,608,Bartow County,Mathematics,20.4,19.3,Average
+62,608,Bartow County,Reading,21.7,21.1,Average
+63,608,Bartow County,Science,21.0,20.5,Average
+64,608,Bartow County,Writing Subscore,6.9,6.6,Average
+65,609,Ben Hill County,Composite,21.0,18.7,Below Average
+67,609,Ben Hill County,Mathematics,20.4,18.8,Average
+68,609,Ben Hill County,Reading,21.7,18.8,Below Average
+69,609,Ben Hill County,Science,21.0,18.9,Below Average
+70,609,Ben Hill County,Writing Subscore,6.9,,0
+71,610,Berrien County,Composite,21.0,,0
+73,610,Berrien County,Mathematics,20.4,,0
+74,610,Berrien County,Reading,21.7,,0
+75,610,Berrien County,Science,21.0,,0
+76,610,Berrien County,Writing Subscore,6.9,,0
+77,611,Bibb County,Composite,21.0,17.4,Below Average
+79,611,Bibb County,Mathematics,20.4,17.2,Below Average
+80,611,Bibb County,Reading,21.7,17.6,Below Average
+81,611,Bibb County,Science,21.0,17.9,Below Average
+82,611,Bibb County,Writing Subscore,6.9,6.2,Average
+83,611,Bibb County,Composite,21.0,17.4,Below Average
+85,611,Bibb County,Mathematics,20.4,17.2,Below Average
+86,611,Bibb County,Reading,21.7,17.6,Below Average
+87,611,Bibb County,Science,21.0,17.9,Below Average
+88,611,Bibb County,Writing Subscore,6.9,6.2,Average
+89,611,Bibb County,Composite,21.0,17.4,Below Average
+91,611,Bibb County,Mathematics,20.4,17.2,Below Average
+92,611,Bibb County,Reading,21.7,17.6,Below Average
+93,611,Bibb County,Science,21.0,17.9,Below Average
+94,611,Bibb County,Writing Subscore,6.9,6.2,Average
+95,611,Bibb County,Composite,21.0,17.4,Below Average
+97,611,Bibb County,Mathematics,20.4,17.2,Below Average
+98,611,Bibb County,Reading,21.7,17.6,Below Average
+99,611,Bibb County,Science,21.0,17.9,Below Average
+100,611,Bibb County,Writing Subscore,6.9,6.2,Average
+101,611,Bibb County,Composite,21.0,17.4,Below Average
+103,611,Bibb County,Mathematics,20.4,17.2,Below Average
+104,611,Bibb County,Reading,21.7,17.6,Below Average
+105,611,Bibb County,Science,21.0,17.9,Below Average
+106,611,Bibb County,Writing Subscore,6.9,6.2,Average
+107,611,Bibb County,Composite,21.0,17.4,Below Average
+109,611,Bibb County,Mathematics,20.4,17.2,Below Average
+110,611,Bibb County,Reading,21.7,17.6,Below Average
+111,611,Bibb County,Science,21.0,17.9,Below Average
+112,611,Bibb County,Writing Subscore,6.9,6.2,Average
+113,612,Bleckley County,Composite,21.0,19.9,Average
+115,612,Bleckley County,Mathematics,20.4,19.5,Average
+116,612,Bleckley County,Reading,21.7,20.2,Average
+117,612,Bleckley County,Science,21.0,20.8,Average
+118,612,Bleckley County,Writing Subscore,6.9,,0
+119,613,Brantley County,Composite,21.0,20.8,Average
+121,613,Brantley County,Mathematics,20.4,19.0,Average
+122,613,Brantley County,Reading,21.7,22.1,Average
+123,613,Brantley County,Science,21.0,21.1,Average
+124,613,Brantley County,Writing Subscore,6.9,6.5,Average
+125,614,Brooks County,Composite,21.0,18.1,Below Average
+127,614,Brooks County,Mathematics,20.4,18.0,Below Average
+128,614,Brooks County,Reading,21.7,18.9,Below Average
+129,614,Brooks County,Science,21.0,18.6,Below Average
+130,614,Brooks County,Writing Subscore,6.9,6.9,Average
+131,615,Bryan County,Composite,21.0,21.6,Average
+133,615,Bryan County,Mathematics,20.4,20.9,Average
+134,615,Bryan County,Reading,21.7,22.2,Average
+135,615,Bryan County,Science,21.0,21.7,Average
+136,615,Bryan County,Writing Subscore,6.9,6.8,Average
+137,615,Bryan County,Composite,21.0,21.6,Average
+139,615,Bryan County,Mathematics,20.4,20.9,Average
+140,615,Bryan County,Reading,21.7,22.2,Average
+141,615,Bryan County,Science,21.0,21.7,Average
+142,615,Bryan County,Writing Subscore,6.9,6.8,Average
+143,616,Bulloch County,Composite,21.0,20.6,Average
+145,616,Bulloch County,Mathematics,20.4,19.9,Average
+146,616,Bulloch County,Reading,21.7,21.3,Average
+147,616,Bulloch County,Science,21.0,20.7,Average
+148,616,Bulloch County,Writing Subscore,6.9,6.1,Average
+149,616,Bulloch County,Composite,21.0,20.6,Average
+151,616,Bulloch County,Mathematics,20.4,19.9,Average
+152,616,Bulloch County,Reading,21.7,21.3,Average
+153,616,Bulloch County,Science,21.0,20.7,Average
+154,616,Bulloch County,Writing Subscore,6.9,6.1,Average
+155,616,Bulloch County,Composite,21.0,20.6,Average
+157,616,Bulloch County,Mathematics,20.4,19.9,Average
+158,616,Bulloch County,Reading,21.7,21.3,Average
+159,616,Bulloch County,Science,21.0,20.7,Average
+160,616,Bulloch County,Writing Subscore,6.9,6.1,Average
+161,617,Burke County,Composite,21.0,17.4,Below Average
+163,617,Burke County,Mathematics,20.4,17.7,Below Average
+164,617,Burke County,Reading,21.7,17.3,Below Average
+165,617,Burke County,Science,21.0,17.7,Below Average
+166,617,Burke County,Writing Subscore,6.9,6.2,Average
+167,618,Butts County,Composite,21.0,17.4,Below Average
+169,618,Butts County,Mathematics,20.4,17.3,Below Average
+170,618,Butts County,Reading,21.7,17.8,Below Average
+171,618,Butts County,Science,21.0,18.1,Below Average
+172,618,Butts County,Writing Subscore,6.9,6.0,Average
+173,619,Calhoun County,Composite,21.0,,0
+175,619,Calhoun County,Mathematics,20.4,,0
+176,619,Calhoun County,Reading,21.7,,0
+177,619,Calhoun County,Science,21.0,,0
+178,619,Calhoun County,Writing Subscore,6.9,,0
+179,620,Camden County,Composite,21.0,20.8,Average
+181,620,Camden County,Mathematics,20.4,20.1,Average
+182,620,Camden County,Reading,21.7,21.7,Average
+183,620,Camden County,Science,21.0,20.8,Average
+184,620,Camden County,Writing Subscore,6.9,6.3,Average
+185,621,Candler County,Composite,21.0,20.6,Average
+187,621,Candler County,Mathematics,20.4,19.7,Average
+188,621,Candler County,Reading,21.7,21.7,Average
+189,621,Candler County,Science,21.0,21.0,Average
+190,621,Candler County,Writing Subscore,6.9,,0
+191,622,Carroll County,Composite,21.0,19.6,Average
+193,622,Carroll County,Mathematics,20.4,18.8,Average
+194,622,Carroll County,Reading,21.7,20.3,Average
+195,622,Carroll County,Science,21.0,19.8,Average
+196,622,Carroll County,Writing Subscore,6.9,6.4,Average
+197,622,Carroll County,Composite,21.0,19.6,Average
+199,622,Carroll County,Mathematics,20.4,18.8,Average
+200,622,Carroll County,Reading,21.7,20.3,Average
+201,622,Carroll County,Science,21.0,19.8,Average
+202,622,Carroll County,Writing Subscore,6.9,6.4,Average
+203,622,Carroll County,Composite,21.0,19.6,Average
+205,622,Carroll County,Mathematics,20.4,18.8,Average
+206,622,Carroll County,Reading,21.7,20.3,Average
+207,622,Carroll County,Science,21.0,19.8,Average
+208,622,Carroll County,Writing Subscore,6.9,6.4,Average
+209,622,Carroll County,Composite,21.0,19.6,Average
+211,622,Carroll County,Mathematics,20.4,18.8,Average
+212,622,Carroll County,Reading,21.7,20.3,Average
+213,622,Carroll County,Science,21.0,19.8,Average
+214,622,Carroll County,Writing Subscore,6.9,6.4,Average
+215,622,Carroll County,Composite,21.0,19.6,Average
+217,622,Carroll County,Mathematics,20.4,18.8,Average
+218,622,Carroll County,Reading,21.7,20.3,Average
+219,622,Carroll County,Science,21.0,19.8,Average
+220,622,Carroll County,Writing Subscore,6.9,6.4,Average
+221,623,Catoosa County,Composite,21.0,20.4,Average
+223,623,Catoosa County,Mathematics,20.4,19.3,Average
+224,623,Catoosa County,Reading,21.7,21.2,Average
+225,623,Catoosa County,Science,21.0,20.7,Average
+226,623,Catoosa County,Writing Subscore,6.9,6.8,Average
+227,623,Catoosa County,Composite,21.0,20.4,Average
+229,623,Catoosa County,Mathematics,20.4,19.3,Average
+230,623,Catoosa County,Reading,21.7,21.2,Average
+231,623,Catoosa County,Science,21.0,20.7,Average
+232,623,Catoosa County,Writing Subscore,6.9,6.8,Average
+233,623,Catoosa County,Composite,21.0,20.4,Average
+235,623,Catoosa County,Mathematics,20.4,19.3,Average
+236,623,Catoosa County,Reading,21.7,21.2,Average
+237,623,Catoosa County,Science,21.0,20.7,Average
+238,623,Catoosa County,Writing Subscore,6.9,6.8,Average
+239,624,Charlton County,Composite,21.0,18.8,Below Average
+241,624,Charlton County,Mathematics,20.4,18.6,Average
+242,624,Charlton County,Reading,21.7,18.9,Below Average
+243,624,Charlton County,Science,21.0,19.3,Average
+244,624,Charlton County,Writing Subscore,6.9,,0
+245,625,Savannah-Chatham County,Composite,21.0,18.4,Below Average
+247,625,Savannah-Chatham County,Mathematics,20.4,18.0,Below Average
+248,625,Savannah-Chatham County,Reading,21.7,19.3,Below Average
+249,625,Savannah-Chatham County,Science,21.0,18.4,Below Average
+250,625,Savannah-Chatham County,Writing Subscore,6.9,6.6,Average
+251,625,Savannah-Chatham County,Composite,21.0,18.4,Below Average
+253,625,Savannah-Chatham County,Mathematics,20.4,18.0,Below Average
+254,625,Savannah-Chatham County,Reading,21.7,19.3,Below Average
+255,625,Savannah-Chatham County,Science,21.0,18.4,Below Average
+256,625,Savannah-Chatham County,Writing Subscore,6.9,6.6,Average
+257,625,Savannah-Chatham County,Composite,21.0,18.4,Below Average
+259,625,Savannah-Chatham County,Mathematics,20.4,18.0,Below Average
+260,625,Savannah-Chatham County,Reading,21.7,19.3,Below Average
+261,625,Savannah-Chatham County,Science,21.0,18.4,Below Average
+262,625,Savannah-Chatham County,Writing Subscore,6.9,6.6,Average
+263,625,Savannah-Chatham County,Composite,21.0,18.4,Below Average
+265,625,Savannah-Chatham County,Mathematics,20.4,18.0,Below Average
+266,625,Savannah-Chatham County,Reading,21.7,19.3,Below Average
+267,625,Savannah-Chatham County,Science,21.0,18.4,Below Average
+268,625,Savannah-Chatham County,Writing Subscore,6.9,6.6,Average
+269,625,Savannah-Chatham County,Composite,21.0,18.4,Below Average
+271,625,Savannah-Chatham County,Mathematics,20.4,18.0,Below Average
+272,625,Savannah-Chatham County,Reading,21.7,19.3,Below Average
+273,625,Savannah-Chatham County,Science,21.0,18.4,Below Average
+274,625,Savannah-Chatham County,Writing Subscore,6.9,6.6,Average
+275,625,Savannah-Chatham County,Composite,21.0,18.4,Below Average
+277,625,Savannah-Chatham County,Mathematics,20.4,18.0,Below Average
+278,625,Savannah-Chatham County,Reading,21.7,19.3,Below Average
+279,625,Savannah-Chatham County,Science,21.0,18.4,Below Average
+280,625,Savannah-Chatham County,Writing Subscore,6.9,6.6,Average
+281,625,Savannah-Chatham County,Composite,21.0,18.4,Below Average
+283,625,Savannah-Chatham County,Mathematics,20.4,18.0,Below Average
+284,625,Savannah-Chatham County,Reading,21.7,19.3,Below Average
+285,625,Savannah-Chatham County,Science,21.0,18.4,Below Average
+286,625,Savannah-Chatham County,Writing Subscore,6.9,6.6,Average
+287,625,Savannah-Chatham County,Composite,21.0,18.4,Below Average
+289,625,Savannah-Chatham County,Mathematics,20.4,18.0,Below Average
+290,625,Savannah-Chatham County,Reading,21.7,19.3,Below Average
+291,625,Savannah-Chatham County,Science,21.0,18.4,Below Average
+292,625,Savannah-Chatham County,Writing Subscore,6.9,6.6,Average
+293,625,Savannah-Chatham County,Composite,21.0,18.4,Below Average
+295,625,Savannah-Chatham County,Mathematics,20.4,18.0,Below Average
+296,625,Savannah-Chatham County,Reading,21.7,19.3,Below Average
+297,625,Savannah-Chatham County,Science,21.0,18.4,Below Average
+298,625,Savannah-Chatham County,Writing Subscore,6.9,6.6,Average
+299,625,Savannah-Chatham County,Composite,21.0,18.4,Below Average
+301,625,Savannah-Chatham County,Mathematics,20.4,18.0,Below Average
+302,625,Savannah-Chatham County,Reading,21.7,19.3,Below Average
+303,625,Savannah-Chatham County,Science,21.0,18.4,Below Average
+304,625,Savannah-Chatham County,Writing Subscore,6.9,6.6,Average
+305,625,Savannah-Chatham County,Composite,21.0,18.4,Below Average
+307,625,Savannah-Chatham County,Mathematics,20.4,18.0,Below Average
+308,625,Savannah-Chatham County,Reading,21.7,19.3,Below Average
+309,625,Savannah-Chatham County,Science,21.0,18.4,Below Average
+310,625,Savannah-Chatham County,Writing Subscore,6.9,6.6,Average
+311,626,Chattahoochee County,Composite,21.0,20.0,Average
+313,626,Chattahoochee County,Mathematics,20.4,19.8,Average
+314,626,Chattahoochee County,Reading,21.7,20.2,Average
+315,626,Chattahoochee County,Science,21.0,20.8,Average
+316,626,Chattahoochee County,Writing Subscore,6.9,,0
+317,627,Chattooga County,Composite,21.0,19.2,Average
+319,627,Chattooga County,Mathematics,20.4,18.5,Average
+320,627,Chattooga County,Reading,21.7,20.0,Average
+321,627,Chattooga County,Science,21.0,18.9,Below Average
+322,627,Chattooga County,Writing Subscore,6.9,6.3,Average
+323,628,Cherokee County,Composite,21.0,22.9,Average
+325,628,Cherokee County,Mathematics,20.4,22.1,Average
+326,628,Cherokee County,Reading,21.7,23.7,Average
+327,628,Cherokee County,Science,21.0,22.7,Average
+328,628,Cherokee County,Writing Subscore,6.9,7.1,Average
+329,628,Cherokee County,Composite,21.0,22.9,Average
+331,628,Cherokee County,Mathematics,20.4,22.1,Average
+332,628,Cherokee County,Reading,21.7,23.7,Average
+333,628,Cherokee County,Science,21.0,22.7,Average
+334,628,Cherokee County,Writing Subscore,6.9,7.1,Average
+335,628,Cherokee County,Composite,21.0,22.9,Average
+337,628,Cherokee County,Mathematics,20.4,22.1,Average
+338,628,Cherokee County,Reading,21.7,23.7,Average
+339,628,Cherokee County,Science,21.0,22.7,Average
+340,628,Cherokee County,Writing Subscore,6.9,7.1,Average
+341,628,Cherokee County,Composite,21.0,22.9,Average
+343,628,Cherokee County,Mathematics,20.4,22.1,Average
+344,628,Cherokee County,Reading,21.7,23.7,Average
+345,628,Cherokee County,Science,21.0,22.7,Average
+346,628,Cherokee County,Writing Subscore,6.9,7.1,Average
+347,628,Cherokee County,Composite,21.0,22.9,Average
+349,628,Cherokee County,Mathematics,20.4,22.1,Average
+350,628,Cherokee County,Reading,21.7,23.7,Average
+351,628,Cherokee County,Science,21.0,22.7,Average
+352,628,Cherokee County,Composite,21.0,22.9,Average
+354,628,Cherokee County,Mathematics,20.4,22.1,Average
+355,628,Cherokee County,Reading,21.7,23.7,Average
+356,628,Cherokee County,Science,21.0,22.7,Average
+357,628,Cherokee County,Writing Subscore,6.9,7.1,Average
+358,628,Cherokee County,Composite,21.0,22.9,Average
+360,628,Cherokee County,Mathematics,20.4,22.1,Average
+361,628,Cherokee County,Reading,21.7,23.7,Average
+362,628,Cherokee County,Science,21.0,22.7,Average
+363,628,Cherokee County,Writing Subscore,6.9,7.1,Average
+364,628,Cherokee County,Composite,21.0,22.9,Average
+366,628,Cherokee County,Mathematics,20.4,22.1,Average
+367,628,Cherokee County,Reading,21.7,23.7,Average
+368,628,Cherokee County,Science,21.0,22.7,Average
+369,628,Cherokee County,Writing Subscore,6.9,7.1,Average
+370,629,Clarke County,Composite,21.0,18.8,Below Average
+372,629,Clarke County,Mathematics,20.4,18.6,Average
+373,629,Clarke County,Reading,21.7,19.3,Below Average
+374,629,Clarke County,Science,21.0,19.1,Average
+375,629,Clarke County,Writing Subscore,6.9,7.1,Average
+376,629,Clarke County,Composite,21.0,18.8,Below Average
+378,629,Clarke County,Mathematics,20.4,18.6,Average
+379,629,Clarke County,Reading,21.7,19.3,Below Average
+380,629,Clarke County,Science,21.0,19.1,Average
+381,629,Clarke County,Writing Subscore,6.9,7.1,Average
+382,629,Clarke County,Composite,21.0,18.8,Below Average
+384,629,Clarke County,Mathematics,20.4,18.6,Average
+385,629,Clarke County,Reading,21.7,19.3,Below Average
+386,629,Clarke County,Science,21.0,19.1,Average
+387,629,Clarke County,Writing Subscore,6.9,7.1,Average
+388,631,Clayton County,Composite,21.0,17.8,Below Average
+390,631,Clayton County,Mathematics,20.4,17.3,Below Average
+391,631,Clayton County,Reading,21.7,18.4,Below Average
+392,631,Clayton County,Science,21.0,18.2,Below Average
+393,631,Clayton County,Writing Subscore,6.9,6.6,Average
+394,631,Clayton County,Composite,21.0,17.8,Below Average
+396,631,Clayton County,Mathematics,20.4,17.3,Below Average
+397,631,Clayton County,Reading,21.7,18.4,Below Average
+398,631,Clayton County,Science,21.0,18.2,Below Average
+399,631,Clayton County,Writing Subscore,6.9,6.6,Average
+400,631,Clayton County,Composite,21.0,17.8,Below Average
+402,631,Clayton County,Mathematics,20.4,17.3,Below Average
+403,631,Clayton County,Reading,21.7,18.4,Below Average
+404,631,Clayton County,Science,21.0,18.2,Below Average
+405,631,Clayton County,Writing Subscore,6.9,6.6,Average
+406,631,Clayton County,Composite,21.0,17.8,Below Average
+408,631,Clayton County,Mathematics,20.4,17.3,Below Average
+409,631,Clayton County,Reading,21.7,18.4,Below Average
+410,631,Clayton County,Science,21.0,18.2,Below Average
+411,631,Clayton County,Writing Subscore,6.9,6.6,Average
+412,631,Clayton County,Composite,21.0,17.8,Below Average
+414,631,Clayton County,Mathematics,20.4,17.3,Below Average
+415,631,Clayton County,Reading,21.7,18.4,Below Average
+416,631,Clayton County,Science,21.0,18.2,Below Average
+417,631,Clayton County,Writing Subscore,6.9,6.6,Average
+418,631,Clayton County,Composite,21.0,17.8,Below Average
+420,631,Clayton County,Mathematics,20.4,17.3,Below Average
+421,631,Clayton County,Reading,21.7,18.4,Below Average
+422,631,Clayton County,Science,21.0,18.2,Below Average
+423,631,Clayton County,Writing Subscore,6.9,6.6,Average
+424,631,Clayton County,Composite,21.0,17.8,Below Average
+426,631,Clayton County,Mathematics,20.4,17.3,Below Average
+427,631,Clayton County,Reading,21.7,18.4,Below Average
+428,631,Clayton County,Science,21.0,18.2,Below Average
+429,631,Clayton County,Writing Subscore,6.9,6.6,Average
+430,631,Clayton County,Composite,21.0,17.8,Below Average
+432,631,Clayton County,Mathematics,20.4,17.3,Below Average
+433,631,Clayton County,Reading,21.7,18.4,Below Average
+434,631,Clayton County,Science,21.0,18.2,Below Average
+435,631,Clayton County,Writing Subscore,6.9,6.6,Average
+436,631,Clayton County,Composite,21.0,17.8,Below Average
+438,631,Clayton County,Mathematics,20.4,17.3,Below Average
+439,631,Clayton County,Reading,21.7,18.4,Below Average
+440,631,Clayton County,Science,21.0,18.2,Below Average
+441,631,Clayton County,Writing Subscore,6.9,6.6,Average
+442,631,Clayton County,Composite,21.0,17.8,Below Average
+444,631,Clayton County,Mathematics,20.4,17.3,Below Average
+445,631,Clayton County,Reading,21.7,18.4,Below Average
+446,631,Clayton County,Science,21.0,18.2,Below Average
+447,631,Clayton County,Writing Subscore,6.9,6.6,Average
+448,631,Clayton County,Composite,21.0,17.8,Below Average
+450,631,Clayton County,Mathematics,20.4,17.3,Below Average
+451,631,Clayton County,Reading,21.7,18.4,Below Average
+452,631,Clayton County,Science,21.0,18.2,Below Average
+453,631,Clayton County,Writing Subscore,6.9,6.6,Average
+454,631,Clayton County,Composite,21.0,17.8,Below Average
+456,631,Clayton County,Mathematics,20.4,17.3,Below Average
+457,631,Clayton County,Reading,21.7,18.4,Below Average
+458,631,Clayton County,Science,21.0,18.2,Below Average
+459,631,Clayton County,Writing Subscore,6.9,6.6,Average
+460,632,Clinch County,Composite,21.0,,0
+462,632,Clinch County,Mathematics,20.4,,0
+463,632,Clinch County,Reading,21.7,,0
+464,632,Clinch County,Science,21.0,,0
+465,632,Clinch County,Writing Subscore,6.9,,0
+466,633,Cobb County,Composite,21.0,22.7,Average
+468,633,Cobb County,Mathematics,20.4,22.0,Average
+469,633,Cobb County,Reading,21.7,23.5,Average
+470,633,Cobb County,Science,21.0,22.4,Average
+471,633,Cobb County,Writing Subscore,6.9,7.2,Average
+472,633,Cobb County,Composite,21.0,22.7,Average
+474,633,Cobb County,Mathematics,20.4,22.0,Average
+475,633,Cobb County,Reading,21.7,23.5,Average
+476,633,Cobb County,Science,21.0,22.4,Average
+477,633,Cobb County,Writing Subscore,6.9,7.2,Average
+478,633,Cobb County,Composite,21.0,22.7,Average
+480,633,Cobb County,Mathematics,20.4,22.0,Average
+481,633,Cobb County,Reading,21.7,23.5,Average
+482,633,Cobb County,Science,21.0,22.4,Average
+483,633,Cobb County,Writing Subscore,6.9,7.2,Average
+484,633,Cobb County,Composite,21.0,22.7,Average
+486,633,Cobb County,Mathematics,20.4,22.0,Average
+487,633,Cobb County,Reading,21.7,23.5,Average
+488,633,Cobb County,Science,21.0,22.4,Average
+489,633,Cobb County,Composite,21.0,22.7,Average
+491,633,Cobb County,Mathematics,20.4,22.0,Average
+492,633,Cobb County,Reading,21.7,23.5,Average
+493,633,Cobb County,Science,21.0,22.4,Average
+494,633,Cobb County,Writing Subscore,6.9,7.2,Average
+495,633,Cobb County,Composite,21.0,22.7,Average
+497,633,Cobb County,Mathematics,20.4,22.0,Average
+498,633,Cobb County,Reading,21.7,23.5,Average
+499,633,Cobb County,Science,21.0,22.4,Average
+500,633,Cobb County,Writing Subscore,6.9,7.2,Average
+501,633,Cobb County,Composite,21.0,22.7,Average
+503,633,Cobb County,Mathematics,20.4,22.0,Average
+504,633,Cobb County,Reading,21.7,23.5,Average
+505,633,Cobb County,Science,21.0,22.4,Average
+506,633,Cobb County,Writing Subscore,6.9,7.2,Average
+507,633,Cobb County,Composite,21.0,22.7,Average
+509,633,Cobb County,Mathematics,20.4,22.0,Average
+510,633,Cobb County,Reading,21.7,23.5,Average
+511,633,Cobb County,Science,21.0,22.4,Average
+512,633,Cobb County,Writing Subscore,6.9,7.2,Average
+513,633,Cobb County,Composite,21.0,22.7,Average
+515,633,Cobb County,Mathematics,20.4,22.0,Average
+516,633,Cobb County,Reading,21.7,23.5,Average
+517,633,Cobb County,Science,21.0,22.4,Average
+518,633,Cobb County,Writing Subscore,6.9,7.2,Average
+519,633,Cobb County,Composite,21.0,22.7,Average
+521,633,Cobb County,Mathematics,20.4,22.0,Average
+522,633,Cobb County,Reading,21.7,23.5,Average
+523,633,Cobb County,Science,21.0,22.4,Average
+524,633,Cobb County,Writing Subscore,6.9,7.2,Average
+525,633,Cobb County,Composite,21.0,22.7,Average
+527,633,Cobb County,Mathematics,20.4,22.0,Average
+528,633,Cobb County,Reading,21.7,23.5,Average
+529,633,Cobb County,Science,21.0,22.4,Average
+530,633,Cobb County,Writing Subscore,6.9,7.2,Average
+531,633,Cobb County,Composite,21.0,22.7,Average
+533,633,Cobb County,Mathematics,20.4,22.0,Average
+534,633,Cobb County,Reading,21.7,23.5,Average
+535,633,Cobb County,Science,21.0,22.4,Average
+536,633,Cobb County,Writing Subscore,6.9,7.2,Average
+537,633,Cobb County,Composite,21.0,22.7,Average
+539,633,Cobb County,Mathematics,20.4,22.0,Average
+540,633,Cobb County,Reading,21.7,23.5,Average
+541,633,Cobb County,Science,21.0,22.4,Average
+542,633,Cobb County,Writing Subscore,6.9,7.2,Average
+543,633,Cobb County,Composite,21.0,22.7,Average
+545,633,Cobb County,Mathematics,20.4,22.0,Average
+546,633,Cobb County,Reading,21.7,23.5,Average
+547,633,Cobb County,Science,21.0,22.4,Average
+548,633,Cobb County,Writing Subscore,6.9,7.2,Average
+549,633,Cobb County,Composite,21.0,22.7,Average
+551,633,Cobb County,Mathematics,20.4,22.0,Average
+552,633,Cobb County,Reading,21.7,23.5,Average
+553,633,Cobb County,Science,21.0,22.4,Average
+554,633,Cobb County,Writing Subscore,6.9,7.2,Average
+555,633,Cobb County,Composite,21.0,22.7,Average
+557,633,Cobb County,Mathematics,20.4,22.0,Average
+558,633,Cobb County,Reading,21.7,23.5,Average
+559,633,Cobb County,Science,21.0,22.4,Average
+560,633,Cobb County,Writing Subscore,6.9,7.2,Average
+561,633,Cobb County,Composite,21.0,22.7,Average
+563,633,Cobb County,Mathematics,20.4,22.0,Average
+564,633,Cobb County,Reading,21.7,23.5,Average
+565,633,Cobb County,Science,21.0,22.4,Average
+566,633,Cobb County,Writing Subscore,6.9,7.2,Average
+567,634,Coffee County,Composite,21.0,18.9,Below Average
+569,634,Coffee County,Mathematics,20.4,18.8,Average
+570,634,Coffee County,Reading,21.7,19.4,Below Average
+571,634,Coffee County,Science,21.0,19.2,Average
+572,634,Coffee County,Composite,21.0,18.9,Below Average
+574,634,Coffee County,Mathematics,20.4,18.8,Average
+575,634,Coffee County,Reading,21.7,19.4,Below Average
+576,634,Coffee County,Science,21.0,19.2,Average
+577,634,Coffee County,Writing Subscore,6.9,6.1,Average
+578,635,Colquitt County,Composite,21.0,18.2,Below Average
+580,635,Colquitt County,Mathematics,20.4,18.1,Below Average
+581,635,Colquitt County,Reading,21.7,18.5,Below Average
+582,635,Colquitt County,Science,21.0,19.1,Average
+583,635,Colquitt County,Writing Subscore,6.9,5.9,Average
+584,635,Colquitt County,Composite,21.0,18.2,Below Average
+586,635,Colquitt County,Mathematics,20.4,18.1,Below Average
+587,635,Colquitt County,Reading,21.7,18.5,Below Average
+588,635,Colquitt County,Science,21.0,19.1,Average
+589,635,Colquitt County,Writing Subscore,6.9,5.9,Average
+590,636,Columbia County,Composite,21.0,22.8,Average
+592,636,Columbia County,Mathematics,20.4,22.2,Average
+593,636,Columbia County,Reading,21.7,23.6,Average
+594,636,Columbia County,Science,21.0,22.9,Average
+595,636,Columbia County,Writing Subscore,6.9,6.9,Average
+596,636,Columbia County,Composite,21.0,22.8,Average
+598,636,Columbia County,Mathematics,20.4,22.2,Average
+599,636,Columbia County,Reading,21.7,23.6,Average
+600,636,Columbia County,Science,21.0,22.9,Average
+601,636,Columbia County,Writing Subscore,6.9,6.9,Average
+602,636,Columbia County,Composite,21.0,22.8,Average
+604,636,Columbia County,Mathematics,20.4,22.2,Average
+605,636,Columbia County,Reading,21.7,23.6,Average
+606,636,Columbia County,Science,21.0,22.9,Average
+607,636,Columbia County,Writing Subscore,6.9,6.9,Average
+608,636,Columbia County,Composite,21.0,22.8,Average
+610,636,Columbia County,Mathematics,20.4,22.2,Average
+611,636,Columbia County,Reading,21.7,23.6,Average
+612,636,Columbia County,Science,21.0,22.9,Average
+613,636,Columbia County,Writing Subscore,6.9,6.9,Average
+614,636,Columbia County,Composite,21.0,22.8,Average
+616,636,Columbia County,Mathematics,20.4,22.2,Average
+617,636,Columbia County,Reading,21.7,23.6,Average
+618,636,Columbia County,Science,21.0,22.9,Average
+619,636,Columbia County,Writing Subscore,6.9,6.9,Average
+620,637,Cook County,Composite,21.0,17.9,Below Average
+622,637,Cook County,Mathematics,20.4,17.3,Below Average
+623,637,Cook County,Reading,21.7,18.6,Below Average
+624,637,Cook County,Science,21.0,18.6,Below Average
+625,637,Cook County,Writing Subscore,6.9,5.9,Average
+626,638,Coweta County,Composite,21.0,21.4,Average
+628,638,Coweta County,Mathematics,20.4,20.5,Average
+629,638,Coweta County,Reading,21.7,22.1,Average
+630,638,Coweta County,Science,21.0,21.5,Average
+631,638,Coweta County,Writing Subscore,6.9,6.7,Average
+632,638,Coweta County,Composite,21.0,21.4,Average
+634,638,Coweta County,Mathematics,20.4,20.5,Average
+635,638,Coweta County,Reading,21.7,22.1,Average
+636,638,Coweta County,Science,21.0,21.5,Average
+637,638,Coweta County,Writing Subscore,6.9,6.7,Average
+638,638,Coweta County,Composite,21.0,21.4,Average
+640,638,Coweta County,Mathematics,20.4,20.5,Average
+641,638,Coweta County,Reading,21.7,22.1,Average
+642,638,Coweta County,Science,21.0,21.5,Average
+643,638,Coweta County,Writing Subscore,6.9,6.7,Average
+644,639,Crawford County,Composite,21.0,19.0,Average
+646,639,Crawford County,Mathematics,20.4,18.0,Below Average
+647,639,Crawford County,Reading,21.7,20.1,Average
+648,639,Crawford County,Science,21.0,18.4,Below Average
+649,639,Crawford County,Writing Subscore,6.9,,0
+650,640,Crisp County,Composite,21.0,17.5,Below Average
+652,640,Crisp County,Mathematics,20.4,16.8,Below Average
+653,640,Crisp County,Reading,21.7,18.4,Below Average
+654,640,Crisp County,Science,21.0,18.0,Below Average
+655,640,Crisp County,Writing Subscore,6.9,,0
+656,641,Dade County,Composite,21.0,20.3,Average
+658,641,Dade County,Mathematics,20.4,19.4,Average
+659,641,Dade County,Reading,21.7,21.4,Average
+660,641,Dade County,Science,21.0,20.5,Average
+661,641,Dade County,Writing Subscore,6.9,6.8,Average
+662,642,Dawson County,Composite,21.0,20.5,Average
+664,642,Dawson County,Mathematics,20.4,19.9,Average
+665,642,Dawson County,Reading,21.7,21.7,Average
+666,642,Dawson County,Science,21.0,20.8,Average
+667,642,Dawson County,Writing Subscore,6.9,6.2,Average
+668,643,Decatur County,Composite,21.0,19.5,Average
+670,643,Decatur County,Mathematics,20.4,17.8,Below Average
+671,643,Decatur County,Reading,21.7,20.5,Average
+672,643,Decatur County,Science,21.0,20.0,Average
+673,643,Decatur County,Writing Subscore,6.9,6.1,Average
+674,644,DeKalb County,Composite,21.0,19.9,Average
+676,644,DeKalb County,Mathematics,20.4,19.1,Average
+677,644,DeKalb County,Reading,21.7,20.7,Average
+678,644,DeKalb County,Science,21.0,19.8,Average
+679,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+680,644,DeKalb County,Composite,21.0,19.9,Average
+682,644,DeKalb County,Mathematics,20.4,19.1,Average
+683,644,DeKalb County,Reading,21.7,20.7,Average
+684,644,DeKalb County,Science,21.0,19.8,Average
+685,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+686,644,DeKalb County,Composite,21.0,19.9,Average
+688,644,DeKalb County,Mathematics,20.4,19.1,Average
+689,644,DeKalb County,Reading,21.7,20.7,Average
+690,644,DeKalb County,Science,21.0,19.8,Average
+691,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+692,644,DeKalb County,Composite,21.0,19.9,Average
+694,644,DeKalb County,Mathematics,20.4,19.1,Average
+695,644,DeKalb County,Reading,21.7,20.7,Average
+696,644,DeKalb County,Science,21.0,19.8,Average
+697,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+698,644,DeKalb County,Composite,21.0,19.9,Average
+700,644,DeKalb County,Mathematics,20.4,19.1,Average
+701,644,DeKalb County,Reading,21.7,20.7,Average
+702,644,DeKalb County,Science,21.0,19.8,Average
+703,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+704,644,DeKalb County,Composite,21.0,19.9,Average
+706,644,DeKalb County,Mathematics,20.4,19.1,Average
+707,644,DeKalb County,Reading,21.7,20.7,Average
+708,644,DeKalb County,Science,21.0,19.8,Average
+709,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+710,644,DeKalb County,Composite,21.0,19.9,Average
+712,644,DeKalb County,Mathematics,20.4,19.1,Average
+713,644,DeKalb County,Reading,21.7,20.7,Average
+714,644,DeKalb County,Science,21.0,19.8,Average
+715,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+716,644,DeKalb County,Composite,21.0,19.9,Average
+718,644,DeKalb County,Mathematics,20.4,19.1,Average
+719,644,DeKalb County,Reading,21.7,20.7,Average
+720,644,DeKalb County,Science,21.0,19.8,Average
+721,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+722,644,DeKalb County,Composite,21.0,19.9,Average
+724,644,DeKalb County,Mathematics,20.4,19.1,Average
+725,644,DeKalb County,Reading,21.7,20.7,Average
+726,644,DeKalb County,Science,21.0,19.8,Average
+727,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+728,644,DeKalb County,Composite,21.0,19.9,Average
+730,644,DeKalb County,Mathematics,20.4,19.1,Average
+731,644,DeKalb County,Reading,21.7,20.7,Average
+732,644,DeKalb County,Science,21.0,19.8,Average
+733,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+734,644,DeKalb County,Composite,21.0,19.9,Average
+736,644,DeKalb County,Mathematics,20.4,19.1,Average
+737,644,DeKalb County,Reading,21.7,20.7,Average
+738,644,DeKalb County,Science,21.0,19.8,Average
+739,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+740,644,DeKalb County,Composite,21.0,19.9,Average
+742,644,DeKalb County,Mathematics,20.4,19.1,Average
+743,644,DeKalb County,Reading,21.7,20.7,Average
+744,644,DeKalb County,Science,21.0,19.8,Average
+745,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+746,644,DeKalb County,Composite,21.0,19.9,Average
+748,644,DeKalb County,Mathematics,20.4,19.1,Average
+749,644,DeKalb County,Reading,21.7,20.7,Average
+750,644,DeKalb County,Science,21.0,19.8,Average
+751,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+752,644,DeKalb County,Composite,21.0,19.9,Average
+754,644,DeKalb County,Mathematics,20.4,19.1,Average
+755,644,DeKalb County,Reading,21.7,20.7,Average
+756,644,DeKalb County,Science,21.0,19.8,Average
+757,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+758,644,DeKalb County,Composite,21.0,19.9,Average
+760,644,DeKalb County,Mathematics,20.4,19.1,Average
+761,644,DeKalb County,Reading,21.7,20.7,Average
+762,644,DeKalb County,Science,21.0,19.8,Average
+763,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+764,644,DeKalb County,Composite,21.0,19.9,Average
+766,644,DeKalb County,Mathematics,20.4,19.1,Average
+767,644,DeKalb County,Reading,21.7,20.7,Average
+768,644,DeKalb County,Science,21.0,19.8,Average
+769,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+770,644,DeKalb County,Composite,21.0,19.9,Average
+772,644,DeKalb County,Mathematics,20.4,19.1,Average
+773,644,DeKalb County,Reading,21.7,20.7,Average
+774,644,DeKalb County,Science,21.0,19.8,Average
+775,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+776,644,DeKalb County,Composite,21.0,19.9,Average
+778,644,DeKalb County,Mathematics,20.4,19.1,Average
+779,644,DeKalb County,Reading,21.7,20.7,Average
+780,644,DeKalb County,Science,21.0,19.8,Average
+781,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+782,644,DeKalb County,Composite,21.0,19.9,Average
+784,644,DeKalb County,Mathematics,20.4,19.1,Average
+785,644,DeKalb County,Reading,21.7,20.7,Average
+786,644,DeKalb County,Science,21.0,19.8,Average
+787,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+788,644,DeKalb County,Composite,21.0,19.9,Average
+790,644,DeKalb County,Mathematics,20.4,19.1,Average
+791,644,DeKalb County,Reading,21.7,20.7,Average
+792,644,DeKalb County,Science,21.0,19.8,Average
+793,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+794,644,DeKalb County,Composite,21.0,19.9,Average
+796,644,DeKalb County,Mathematics,20.4,19.1,Average
+797,644,DeKalb County,Reading,21.7,20.7,Average
+798,644,DeKalb County,Science,21.0,19.8,Average
+799,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+800,644,DeKalb County,Composite,21.0,19.9,Average
+802,644,DeKalb County,Mathematics,20.4,19.1,Average
+803,644,DeKalb County,Reading,21.7,20.7,Average
+804,644,DeKalb County,Science,21.0,19.8,Average
+805,644,DeKalb County,Writing Subscore,6.9,6.8,Average
+806,645,Dodge County,Composite,21.0,21.4,Average
+808,645,Dodge County,Mathematics,20.4,21.1,Average
+809,645,Dodge County,Reading,21.7,22.1,Average
+810,645,Dodge County,Science,21.0,21.1,Average
+811,645,Dodge County,Writing Subscore,6.9,,0
+812,646,Dooly County,Composite,21.0,15.5,Below Average
+814,646,Dooly County,Mathematics,20.4,16.3,Below Average
+815,646,Dooly County,Reading,21.7,15.7,Below Average
+816,646,Dooly County,Science,21.0,15.7,Below Average
+817,646,Dooly County,Writing Subscore,6.9,,0
+818,647,Dougherty County,Composite,21.0,17.5,Below Average
+820,647,Dougherty County,Mathematics,20.4,16.9,Below Average
+821,647,Dougherty County,Reading,21.7,18.1,Below Average
+822,647,Dougherty County,Science,21.0,18.0,Below Average
+823,647,Dougherty County,Writing Subscore,6.9,6.1,Average
+824,647,Dougherty County,Composite,21.0,17.5,Below Average
+826,647,Dougherty County,Mathematics,20.4,16.9,Below Average
+827,647,Dougherty County,Reading,21.7,18.1,Below Average
+828,647,Dougherty County,Science,21.0,18.0,Below Average
+829,647,Dougherty County,Writing Subscore,6.9,6.1,Average
+830,647,Dougherty County,Composite,21.0,17.5,Below Average
+832,647,Dougherty County,Mathematics,20.4,16.9,Below Average
+833,647,Dougherty County,Reading,21.7,18.1,Below Average
+834,647,Dougherty County,Science,21.0,18.0,Below Average
+835,647,Dougherty County,Writing Subscore,6.9,6.1,Average
+836,647,Dougherty County,Composite,21.0,17.5,Below Average
+838,647,Dougherty County,Mathematics,20.4,16.9,Below Average
+839,647,Dougherty County,Reading,21.7,18.1,Below Average
+840,647,Dougherty County,Science,21.0,18.0,Below Average
+841,647,Dougherty County,Writing Subscore,6.9,6.1,Average
+842,648,Douglas County,Composite,21.0,19.4,Average
+844,648,Douglas County,Mathematics,20.4,18.7,Average
+845,648,Douglas County,Reading,21.7,20.3,Average
+846,648,Douglas County,Science,21.0,19.6,Average
+847,648,Douglas County,Writing Subscore,6.9,6.7,Average
+848,648,Douglas County,Composite,21.0,19.4,Average
+850,648,Douglas County,Mathematics,20.4,18.7,Average
+851,648,Douglas County,Reading,21.7,20.3,Average
+852,648,Douglas County,Science,21.0,19.6,Average
+853,648,Douglas County,Writing Subscore,6.9,6.7,Average
+854,648,Douglas County,Composite,21.0,19.4,Average
+856,648,Douglas County,Mathematics,20.4,18.7,Average
+857,648,Douglas County,Reading,21.7,20.3,Average
+858,648,Douglas County,Science,21.0,19.6,Average
+859,648,Douglas County,Writing Subscore,6.9,6.7,Average
+860,648,Douglas County,Composite,21.0,19.4,Average
+862,648,Douglas County,Mathematics,20.4,18.7,Average
+863,648,Douglas County,Reading,21.7,20.3,Average
+864,648,Douglas County,Science,21.0,19.6,Average
+865,648,Douglas County,Writing Subscore,6.9,6.7,Average
+866,648,Douglas County,Composite,21.0,19.4,Average
+868,648,Douglas County,Mathematics,20.4,18.7,Average
+869,648,Douglas County,Reading,21.7,20.3,Average
+870,648,Douglas County,Science,21.0,19.6,Average
+871,648,Douglas County,Writing Subscore,6.9,6.7,Average
+872,649,Early County,Composite,21.0,18.8,Below Average
+874,649,Early County,Mathematics,20.4,18.4,Average
+875,649,Early County,Reading,21.7,19.7,Average
+876,649,Early County,Science,21.0,19.2,Average
+877,649,Early County,Writing Subscore,6.9,,0
+878,650,Echols County,Composite,21.0,19.4,Average
+880,650,Echols County,Mathematics,20.4,18.4,Average
+881,650,Echols County,Reading,21.7,20.7,Average
+882,650,Echols County,Science,21.0,19.7,Average
+883,650,Echols County,Writing Subscore,6.9,,0
+884,651,Effingham County,Composite,21.0,21.4,Average
+886,651,Effingham County,Mathematics,20.4,20.5,Average
+887,651,Effingham County,Reading,21.7,22.5,Average
+888,651,Effingham County,Science,21.0,21.4,Average
+889,651,Effingham County,Writing Subscore,6.9,6.9,Average
+890,651,Effingham County,Composite,21.0,21.4,Average
+892,651,Effingham County,Mathematics,20.4,20.5,Average
+893,651,Effingham County,Reading,21.7,22.5,Average
+894,651,Effingham County,Science,21.0,21.4,Average
+895,651,Effingham County,Writing Subscore,6.9,6.9,Average
+896,652,Elbert County,Composite,21.0,18.9,Below Average
+898,652,Elbert County,Mathematics,20.4,18.6,Average
+899,652,Elbert County,Reading,21.7,19.7,Average
+900,652,Elbert County,Science,21.0,19.1,Average
+901,652,Elbert County,Writing Subscore,6.9,,0
+902,653,Emanuel County,Composite,21.0,17.9,Below Average
+904,653,Emanuel County,Mathematics,20.4,17.1,Below Average
+905,653,Emanuel County,Reading,21.7,19.2,Below Average
+906,653,Emanuel County,Science,21.0,18.7,Below Average
+907,653,Emanuel County,Writing Subscore,6.9,,0
+908,653,Emanuel County,Composite,21.0,17.9,Below Average
+910,653,Emanuel County,Mathematics,20.4,17.1,Below Average
+911,653,Emanuel County,Reading,21.7,19.2,Below Average
+912,653,Emanuel County,Science,21.0,18.7,Below Average
+913,653,Emanuel County,Writing Subscore,6.9,,0
+914,654,Evans County,Composite,21.0,18.8,Below Average
+916,654,Evans County,Mathematics,20.4,17.7,Below Average
+917,654,Evans County,Reading,21.7,19.7,Average
+918,654,Evans County,Science,21.0,19.4,Average
+919,654,Evans County,Writing Subscore,6.9,,0
+920,655,Fannin County,Composite,21.0,21.1,Average
+922,655,Fannin County,Mathematics,20.4,20.8,Average
+923,655,Fannin County,Reading,21.7,22.0,Average
+924,655,Fannin County,Science,21.0,20.4,Average
+925,655,Fannin County,Writing Subscore,6.9,,0
+926,656,Fayette County,Composite,21.0,23.7,Above Average
+928,656,Fayette County,Mathematics,20.4,23.0,Above Average
+929,656,Fayette County,Reading,21.7,24.4,Above Average
+930,656,Fayette County,Science,21.0,23.4,Above Average
+931,656,Fayette County,Writing Subscore,6.9,7.1,Average
+932,656,Fayette County,Composite,21.0,23.7,Above Average
+934,656,Fayette County,Mathematics,20.4,23.0,Above Average
+935,656,Fayette County,Reading,21.7,24.4,Above Average
+936,656,Fayette County,Science,21.0,23.4,Above Average
+937,656,Fayette County,Writing Subscore,6.9,7.1,Average
+938,656,Fayette County,Composite,21.0,23.7,Above Average
+940,656,Fayette County,Mathematics,20.4,23.0,Above Average
+941,656,Fayette County,Reading,21.7,24.4,Above Average
+942,656,Fayette County,Science,21.0,23.4,Above Average
+943,656,Fayette County,Writing Subscore,6.9,7.1,Average
+944,656,Fayette County,Composite,21.0,23.7,Above Average
+946,656,Fayette County,Mathematics,20.4,23.0,Above Average
+947,656,Fayette County,Reading,21.7,24.4,Above Average
+948,656,Fayette County,Science,21.0,23.4,Above Average
+949,656,Fayette County,Writing Subscore,6.9,7.1,Average
+950,656,Fayette County,Composite,21.0,23.7,Above Average
+952,656,Fayette County,Mathematics,20.4,23.0,Above Average
+953,656,Fayette County,Reading,21.7,24.4,Above Average
+954,656,Fayette County,Science,21.0,23.4,Above Average
+955,656,Fayette County,Writing Subscore,6.9,7.1,Average
+956,657,Floyd County,Composite,21.0,21.0,Average
+958,657,Floyd County,Mathematics,20.4,20.1,Average
+959,657,Floyd County,Reading,21.7,22.0,Average
+960,657,Floyd County,Science,21.0,21.3,Average
+961,657,Floyd County,Writing Subscore,6.9,7.1,Average
+962,657,Floyd County,Composite,21.0,21.0,Average
+964,657,Floyd County,Mathematics,20.4,20.1,Average
+965,657,Floyd County,Reading,21.7,22.0,Average
+966,657,Floyd County,Science,21.0,21.3,Average
+967,657,Floyd County,Writing Subscore,6.9,7.1,Average
+968,657,Floyd County,Composite,21.0,21.0,Average
+970,657,Floyd County,Mathematics,20.4,20.1,Average
+971,657,Floyd County,Reading,21.7,22.0,Average
+972,657,Floyd County,Science,21.0,21.3,Average
+973,657,Floyd County,Writing Subscore,6.9,7.1,Average
+974,657,Floyd County,Composite,21.0,21.0,Average
+976,657,Floyd County,Mathematics,20.4,20.1,Average
+977,657,Floyd County,Reading,21.7,22.0,Average
+978,657,Floyd County,Science,21.0,21.3,Average
+979,657,Floyd County,Writing Subscore,6.9,7.1,Average
+980,658,Forsyth County,Composite,21.0,24.6,Above Average
+982,658,Forsyth County,Mathematics,20.4,23.8,Above Average
+983,658,Forsyth County,Reading,21.7,25.2,Above Average
+984,658,Forsyth County,Science,21.0,24.2,Above Average
+985,658,Forsyth County,Writing Subscore,6.9,7.4,Average
+986,658,Forsyth County,Composite,21.0,24.6,Above Average
+988,658,Forsyth County,Mathematics,20.4,23.8,Above Average
+989,658,Forsyth County,Reading,21.7,25.2,Above Average
+990,658,Forsyth County,Science,21.0,24.2,Above Average
+991,658,Forsyth County,Writing Subscore,6.9,7.4,Average
+992,658,Forsyth County,Composite,21.0,24.6,Above Average
+994,658,Forsyth County,Mathematics,20.4,23.8,Above Average
+995,658,Forsyth County,Reading,21.7,25.2,Above Average
+996,658,Forsyth County,Science,21.0,24.2,Above Average
+997,658,Forsyth County,Writing Subscore,6.9,7.4,Average
+998,658,Forsyth County,Composite,21.0,24.6,Above Average
+1000,658,Forsyth County,Mathematics,20.4,23.8,Above Average
+1001,658,Forsyth County,Reading,21.7,25.2,Above Average
+1002,658,Forsyth County,Science,21.0,24.2,Above Average
+1003,658,Forsyth County,Writing Subscore,6.9,7.4,Average
+1004,658,Forsyth County,Composite,21.0,24.6,Above Average
+1006,658,Forsyth County,Mathematics,20.4,23.8,Above Average
+1007,658,Forsyth County,Reading,21.7,25.2,Above Average
+1008,658,Forsyth County,Science,21.0,24.2,Above Average
+1009,658,Forsyth County,Composite,21.0,24.6,Above Average
+1011,658,Forsyth County,Mathematics,20.4,23.8,Above Average
+1012,658,Forsyth County,Reading,21.7,25.2,Above Average
+1013,658,Forsyth County,Science,21.0,24.2,Above Average
+1014,658,Forsyth County,Writing Subscore,6.9,7.4,Average
+1015,658,Forsyth County,Composite,21.0,24.6,Above Average
+1017,658,Forsyth County,Mathematics,20.4,23.8,Above Average
+1018,658,Forsyth County,Reading,21.7,25.2,Above Average
+1019,658,Forsyth County,Science,21.0,24.2,Above Average
+1020,658,Forsyth County,Writing Subscore,6.9,7.4,Average
+1021,659,Franklin County,Composite,21.0,20.2,Average
+1023,659,Franklin County,Mathematics,20.4,19.9,Average
+1024,659,Franklin County,Reading,21.7,21.7,Average
+1025,659,Franklin County,Science,21.0,19.9,Average
+1026,659,Franklin County,Writing Subscore,6.9,,0
+1027,660,Fulton County,Composite,21.0,23.5,Above Average
+1029,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1030,660,Fulton County,Reading,21.7,24.1,Above Average
+1031,660,Fulton County,Science,21.0,23.1,Above Average
+1032,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1033,660,Fulton County,Composite,21.0,23.5,Above Average
+1035,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1036,660,Fulton County,Reading,21.7,24.1,Above Average
+1037,660,Fulton County,Science,21.0,23.1,Above Average
+1038,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1039,660,Fulton County,Composite,21.0,23.5,Above Average
+1041,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1042,660,Fulton County,Reading,21.7,24.1,Above Average
+1043,660,Fulton County,Science,21.0,23.1,Above Average
+1044,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1045,660,Fulton County,Composite,21.0,23.5,Above Average
+1047,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1048,660,Fulton County,Reading,21.7,24.1,Above Average
+1049,660,Fulton County,Science,21.0,23.1,Above Average
+1050,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1051,660,Fulton County,Composite,21.0,23.5,Above Average
+1053,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1054,660,Fulton County,Reading,21.7,24.1,Above Average
+1055,660,Fulton County,Science,21.0,23.1,Above Average
+1056,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1057,660,Fulton County,Composite,21.0,23.5,Above Average
+1059,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1060,660,Fulton County,Reading,21.7,24.1,Above Average
+1061,660,Fulton County,Science,21.0,23.1,Above Average
+1062,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1063,660,Fulton County,Composite,21.0,23.5,Above Average
+1065,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1066,660,Fulton County,Reading,21.7,24.1,Above Average
+1067,660,Fulton County,Science,21.0,23.1,Above Average
+1068,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1069,660,Fulton County,Composite,21.0,23.5,Above Average
+1071,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1072,660,Fulton County,Reading,21.7,24.1,Above Average
+1073,660,Fulton County,Science,21.0,23.1,Above Average
+1074,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1075,660,Fulton County,Composite,21.0,23.5,Above Average
+1077,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1078,660,Fulton County,Reading,21.7,24.1,Above Average
+1079,660,Fulton County,Science,21.0,23.1,Above Average
+1080,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1081,660,Fulton County,Composite,21.0,23.5,Above Average
+1083,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1084,660,Fulton County,Reading,21.7,24.1,Above Average
+1085,660,Fulton County,Science,21.0,23.1,Above Average
+1086,660,Fulton County,Composite,21.0,23.5,Above Average
+1088,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1089,660,Fulton County,Reading,21.7,24.1,Above Average
+1090,660,Fulton County,Science,21.0,23.1,Above Average
+1091,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1092,660,Fulton County,Composite,21.0,23.5,Above Average
+1094,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1095,660,Fulton County,Reading,21.7,24.1,Above Average
+1096,660,Fulton County,Science,21.0,23.1,Above Average
+1097,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1098,660,Fulton County,Composite,21.0,23.5,Above Average
+1100,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1101,660,Fulton County,Reading,21.7,24.1,Above Average
+1102,660,Fulton County,Science,21.0,23.1,Above Average
+1103,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1104,660,Fulton County,Composite,21.0,23.5,Above Average
+1106,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1107,660,Fulton County,Reading,21.7,24.1,Above Average
+1108,660,Fulton County,Science,21.0,23.1,Above Average
+1109,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1110,660,Fulton County,Composite,21.0,23.5,Above Average
+1112,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1113,660,Fulton County,Reading,21.7,24.1,Above Average
+1114,660,Fulton County,Science,21.0,23.1,Above Average
+1115,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1116,660,Fulton County,Composite,21.0,23.5,Above Average
+1118,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1119,660,Fulton County,Reading,21.7,24.1,Above Average
+1120,660,Fulton County,Science,21.0,23.1,Above Average
+1121,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1122,660,Fulton County,Composite,21.0,23.5,Above Average
+1124,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1125,660,Fulton County,Reading,21.7,24.1,Above Average
+1126,660,Fulton County,Science,21.0,23.1,Above Average
+1127,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1128,660,Fulton County,Composite,21.0,23.5,Above Average
+1130,660,Fulton County,Mathematics,20.4,22.9,Above Average
+1131,660,Fulton County,Reading,21.7,24.1,Above Average
+1132,660,Fulton County,Science,21.0,23.1,Above Average
+1133,660,Fulton County,Writing Subscore,6.9,7.2,Average
+1134,661,Gilmer County,Composite,21.0,21.8,Average
+1136,661,Gilmer County,Mathematics,20.4,20.8,Average
+1137,661,Gilmer County,Reading,21.7,23.1,Average
+1138,661,Gilmer County,Science,21.0,21.7,Average
+1139,661,Gilmer County,Writing Subscore,6.9,6.8,Average
+1140,662,Glascock County,Composite,21.0,,0
+1142,662,Glascock County,Mathematics,20.4,,0
+1143,662,Glascock County,Reading,21.7,,0
+1144,662,Glascock County,Science,21.0,,0
+1145,663,Glynn County,Composite,21.0,20.6,Average
+1147,663,Glynn County,Mathematics,20.4,19.8,Average
+1148,663,Glynn County,Reading,21.7,21.4,Average
+1149,663,Glynn County,Science,21.0,20.5,Average
+1150,663,Glynn County,Writing Subscore,6.9,6.6,Average
+1151,663,Glynn County,Composite,21.0,20.6,Average
+1153,663,Glynn County,Mathematics,20.4,19.8,Average
+1154,663,Glynn County,Reading,21.7,21.4,Average
+1155,663,Glynn County,Science,21.0,20.5,Average
+1156,663,Glynn County,Writing Subscore,6.9,6.6,Average
+1157,664,Gordon County,Composite,21.0,20.0,Average
+1159,664,Gordon County,Mathematics,20.4,19.9,Average
+1160,664,Gordon County,Reading,21.7,20.7,Average
+1161,664,Gordon County,Science,21.0,20.2,Average
+1162,664,Gordon County,Writing Subscore,6.9,6.8,Average
+1163,664,Gordon County,Composite,21.0,20.0,Average
+1165,664,Gordon County,Mathematics,20.4,19.9,Average
+1166,664,Gordon County,Reading,21.7,20.7,Average
+1167,664,Gordon County,Science,21.0,20.2,Average
+1168,664,Gordon County,Writing Subscore,6.9,6.8,Average
+1169,665,Grady County,Composite,21.0,17.3,Below Average
+1171,665,Grady County,Mathematics,20.4,16.8,Below Average
+1172,665,Grady County,Reading,21.7,17.7,Below Average
+1173,665,Grady County,Science,21.0,18.0,Below Average
+1174,665,Grady County,Writing Subscore,6.9,6.5,Average
+1175,666,Greene County,Composite,21.0,16.2,Below Average
+1177,666,Greene County,Mathematics,20.4,16.1,Below Average
+1178,666,Greene County,Reading,21.7,16.3,Below Average
+1179,666,Greene County,Science,21.0,16.7,Below Average
+1180,666,Greene County,Writing Subscore,6.9,6.1,Average
+1181,667,Gwinnett County,Composite,21.0,22.6,Average
+1183,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1184,667,Gwinnett County,Reading,21.7,23.0,Average
+1185,667,Gwinnett County,Science,21.0,22.5,Average
+1186,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1187,667,Gwinnett County,Composite,21.0,22.6,Average
+1189,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1190,667,Gwinnett County,Reading,21.7,23.0,Average
+1191,667,Gwinnett County,Science,21.0,22.5,Average
+1192,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1193,667,Gwinnett County,Composite,21.0,22.6,Average
+1195,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1196,667,Gwinnett County,Reading,21.7,23.0,Average
+1197,667,Gwinnett County,Science,21.0,22.5,Average
+1198,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1199,667,Gwinnett County,Composite,21.0,22.6,Average
+1201,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1202,667,Gwinnett County,Reading,21.7,23.0,Average
+1203,667,Gwinnett County,Science,21.0,22.5,Average
+1204,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1205,667,Gwinnett County,Composite,21.0,22.6,Average
+1207,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1208,667,Gwinnett County,Reading,21.7,23.0,Average
+1209,667,Gwinnett County,Science,21.0,22.5,Average
+1210,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1211,667,Gwinnett County,Composite,21.0,22.6,Average
+1213,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1214,667,Gwinnett County,Reading,21.7,23.0,Average
+1215,667,Gwinnett County,Science,21.0,22.5,Average
+1216,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1217,667,Gwinnett County,Composite,21.0,22.6,Average
+1219,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1220,667,Gwinnett County,Reading,21.7,23.0,Average
+1221,667,Gwinnett County,Science,21.0,22.5,Average
+1222,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1223,667,Gwinnett County,Composite,21.0,22.6,Average
+1225,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1226,667,Gwinnett County,Reading,21.7,23.0,Average
+1227,667,Gwinnett County,Science,21.0,22.5,Average
+1228,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1229,667,Gwinnett County,Composite,21.0,22.6,Average
+1231,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1232,667,Gwinnett County,Reading,21.7,23.0,Average
+1233,667,Gwinnett County,Science,21.0,22.5,Average
+1234,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1235,667,Gwinnett County,Composite,21.0,22.6,Average
+1237,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1238,667,Gwinnett County,Reading,21.7,23.0,Average
+1239,667,Gwinnett County,Science,21.0,22.5,Average
+1240,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1241,667,Gwinnett County,Composite,21.0,22.6,Average
+1243,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1244,667,Gwinnett County,Reading,21.7,23.0,Average
+1245,667,Gwinnett County,Science,21.0,22.5,Average
+1246,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1247,667,Gwinnett County,Composite,21.0,22.6,Average
+1249,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1250,667,Gwinnett County,Reading,21.7,23.0,Average
+1251,667,Gwinnett County,Science,21.0,22.5,Average
+1252,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1253,667,Gwinnett County,Composite,21.0,22.6,Average
+1255,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1256,667,Gwinnett County,Reading,21.7,23.0,Average
+1257,667,Gwinnett County,Science,21.0,22.5,Average
+1258,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1259,667,Gwinnett County,Composite,21.0,22.6,Average
+1261,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1262,667,Gwinnett County,Reading,21.7,23.0,Average
+1263,667,Gwinnett County,Science,21.0,22.5,Average
+1264,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1265,667,Gwinnett County,Composite,21.0,22.6,Average
+1267,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1268,667,Gwinnett County,Reading,21.7,23.0,Average
+1269,667,Gwinnett County,Science,21.0,22.5,Average
+1270,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1271,667,Gwinnett County,Composite,21.0,22.6,Average
+1273,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1274,667,Gwinnett County,Reading,21.7,23.0,Average
+1275,667,Gwinnett County,Science,21.0,22.5,Average
+1276,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1277,667,Gwinnett County,Composite,21.0,22.6,Average
+1279,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1280,667,Gwinnett County,Reading,21.7,23.0,Average
+1281,667,Gwinnett County,Science,21.0,22.5,Average
+1282,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1283,667,Gwinnett County,Composite,21.0,22.6,Average
+1285,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1286,667,Gwinnett County,Reading,21.7,23.0,Average
+1287,667,Gwinnett County,Science,21.0,22.5,Average
+1288,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1289,667,Gwinnett County,Composite,21.0,22.6,Average
+1291,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1292,667,Gwinnett County,Reading,21.7,23.0,Average
+1293,667,Gwinnett County,Science,21.0,22.5,Average
+1294,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1295,667,Gwinnett County,Composite,21.0,22.6,Average
+1297,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1298,667,Gwinnett County,Reading,21.7,23.0,Average
+1299,667,Gwinnett County,Science,21.0,22.5,Average
+1300,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1301,667,Gwinnett County,Composite,21.0,22.6,Average
+1303,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1304,667,Gwinnett County,Reading,21.7,23.0,Average
+1305,667,Gwinnett County,Science,21.0,22.5,Average
+1306,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1307,667,Gwinnett County,Composite,21.0,22.6,Average
+1309,667,Gwinnett County,Mathematics,20.4,22.4,Average
+1310,667,Gwinnett County,Reading,21.7,23.0,Average
+1311,667,Gwinnett County,Science,21.0,22.5,Average
+1312,667,Gwinnett County,Writing Subscore,6.9,7.5,Average
+1313,668,Habersham County,Composite,21.0,21.2,Average
+1315,668,Habersham County,Mathematics,20.4,20.5,Average
+1316,668,Habersham County,Reading,21.7,22.2,Average
+1317,668,Habersham County,Science,21.0,20.9,Average
+1318,668,Habersham County,Writing Subscore,6.9,7.6,Average
+1319,669,Hall County,Composite,21.0,20.9,Average
+1321,669,Hall County,Mathematics,20.4,20.5,Average
+1322,669,Hall County,Reading,21.7,21.5,Average
+1323,669,Hall County,Science,21.0,20.9,Average
+1324,669,Hall County,Writing Subscore,6.9,6.7,Average
+1325,669,Hall County,Composite,21.0,20.9,Average
+1327,669,Hall County,Mathematics,20.4,20.5,Average
+1328,669,Hall County,Reading,21.7,21.5,Average
+1329,669,Hall County,Science,21.0,20.9,Average
+1330,669,Hall County,Composite,21.0,20.9,Average
+1332,669,Hall County,Mathematics,20.4,20.5,Average
+1333,669,Hall County,Reading,21.7,21.5,Average
+1334,669,Hall County,Science,21.0,20.9,Average
+1335,669,Hall County,Writing Subscore,6.9,6.7,Average
+1336,669,Hall County,Composite,21.0,20.9,Average
+1338,669,Hall County,Mathematics,20.4,20.5,Average
+1339,669,Hall County,Reading,21.7,21.5,Average
+1340,669,Hall County,Science,21.0,20.9,Average
+1341,669,Hall County,Writing Subscore,6.9,6.7,Average
+1342,669,Hall County,Composite,21.0,20.9,Average
+1344,669,Hall County,Mathematics,20.4,20.5,Average
+1345,669,Hall County,Reading,21.7,21.5,Average
+1346,669,Hall County,Science,21.0,20.9,Average
+1347,669,Hall County,Writing Subscore,6.9,6.7,Average
+1348,669,Hall County,Composite,21.0,20.9,Average
+1350,669,Hall County,Mathematics,20.4,20.5,Average
+1351,669,Hall County,Reading,21.7,21.5,Average
+1352,669,Hall County,Science,21.0,20.9,Average
+1353,669,Hall County,Writing Subscore,6.9,6.7,Average
+1354,669,Hall County,Composite,21.0,20.9,Average
+1356,669,Hall County,Mathematics,20.4,20.5,Average
+1357,669,Hall County,Reading,21.7,21.5,Average
+1358,669,Hall County,Science,21.0,20.9,Average
+1359,669,Hall County,Writing Subscore,6.9,6.7,Average
+1360,670,Hancock County,Composite,21.0,,0
+1362,670,Hancock County,Mathematics,20.4,,0
+1363,670,Hancock County,Reading,21.7,,0
+1364,670,Hancock County,Science,21.0,,0
+1365,671,Haralson County,Composite,21.0,21.4,Average
+1367,671,Haralson County,Mathematics,20.4,19.6,Average
+1368,671,Haralson County,Reading,21.7,22.7,Average
+1369,671,Haralson County,Science,21.0,21.8,Average
+1370,671,Haralson County,Writing Subscore,6.9,,0
+1371,672,Harris County,Composite,21.0,20.3,Average
+1373,672,Harris County,Mathematics,20.4,19.4,Average
+1374,672,Harris County,Reading,21.7,21.3,Average
+1375,672,Harris County,Science,21.0,20.4,Average
+1376,672,Harris County,Writing Subscore,6.9,6.5,Average
+1377,673,Hart County,Composite,21.0,19.5,Average
+1379,673,Hart County,Mathematics,20.4,18.5,Average
+1380,673,Hart County,Reading,21.7,20.5,Average
+1381,673,Hart County,Science,21.0,19.9,Average
+1382,673,Hart County,Writing Subscore,6.9,5.9,Average
+1383,674,Heard County,Composite,21.0,19.0,Average
+1385,674,Heard County,Mathematics,20.4,18.5,Average
+1386,674,Heard County,Reading,21.7,19.5,Below Average
+1387,674,Heard County,Science,21.0,19.6,Average
+1388,674,Heard County,Writing Subscore,6.9,,0
+1389,675,Henry County,Composite,21.0,19.4,Average
+1391,675,Henry County,Mathematics,20.4,19.0,Average
+1392,675,Henry County,Reading,21.7,20.1,Average
+1393,675,Henry County,Science,21.0,19.6,Average
+1394,675,Henry County,Writing Subscore,6.9,6.4,Average
+1395,675,Henry County,Composite,21.0,19.4,Average
+1397,675,Henry County,Mathematics,20.4,19.0,Average
+1398,675,Henry County,Reading,21.7,20.1,Average
+1399,675,Henry County,Science,21.0,19.6,Average
+1400,675,Henry County,Writing Subscore,6.9,6.4,Average
+1401,675,Henry County,Composite,21.0,19.4,Average
+1403,675,Henry County,Mathematics,20.4,19.0,Average
+1404,675,Henry County,Reading,21.7,20.1,Average
+1405,675,Henry County,Science,21.0,19.6,Average
+1406,675,Henry County,Writing Subscore,6.9,6.4,Average
+1407,675,Henry County,Composite,21.0,19.4,Average
+1409,675,Henry County,Mathematics,20.4,19.0,Average
+1410,675,Henry County,Reading,21.7,20.1,Average
+1411,675,Henry County,Science,21.0,19.6,Average
+1412,675,Henry County,Writing Subscore,6.9,6.4,Average
+1413,675,Henry County,Composite,21.0,19.4,Average
+1415,675,Henry County,Mathematics,20.4,19.0,Average
+1416,675,Henry County,Reading,21.7,20.1,Average
+1417,675,Henry County,Science,21.0,19.6,Average
+1418,675,Henry County,Writing Subscore,6.9,6.4,Average
+1419,675,Henry County,Composite,21.0,19.4,Average
+1421,675,Henry County,Mathematics,20.4,19.0,Average
+1422,675,Henry County,Reading,21.7,20.1,Average
+1423,675,Henry County,Science,21.0,19.6,Average
+1424,675,Henry County,Writing Subscore,6.9,6.4,Average
+1425,675,Henry County,Composite,21.0,19.4,Average
+1427,675,Henry County,Mathematics,20.4,19.0,Average
+1428,675,Henry County,Reading,21.7,20.1,Average
+1429,675,Henry County,Science,21.0,19.6,Average
+1430,675,Henry County,Writing Subscore,6.9,6.4,Average
+1431,675,Henry County,Composite,21.0,19.4,Average
+1433,675,Henry County,Mathematics,20.4,19.0,Average
+1434,675,Henry County,Reading,21.7,20.1,Average
+1435,675,Henry County,Science,21.0,19.6,Average
+1436,675,Henry County,Writing Subscore,6.9,6.4,Average
+1437,675,Henry County,Composite,21.0,19.4,Average
+1439,675,Henry County,Mathematics,20.4,19.0,Average
+1440,675,Henry County,Reading,21.7,20.1,Average
+1441,675,Henry County,Science,21.0,19.6,Average
+1442,675,Henry County,Writing Subscore,6.9,6.4,Average
+1443,675,Henry County,Composite,21.0,19.4,Average
+1445,675,Henry County,Mathematics,20.4,19.0,Average
+1446,675,Henry County,Reading,21.7,20.1,Average
+1447,675,Henry County,Science,21.0,19.6,Average
+1448,675,Henry County,Writing Subscore,6.9,6.4,Average
+1449,676,Houston County,Composite,21.0,20.6,Average
+1451,676,Houston County,Mathematics,20.4,20.1,Average
+1452,676,Houston County,Reading,21.7,21.4,Average
+1453,676,Houston County,Science,21.0,21.0,Average
+1454,676,Houston County,Writing Subscore,6.9,6.7,Average
+1455,676,Houston County,Composite,21.0,20.6,Average
+1457,676,Houston County,Mathematics,20.4,20.1,Average
+1458,676,Houston County,Reading,21.7,21.4,Average
+1459,676,Houston County,Science,21.0,21.0,Average
+1460,676,Houston County,Writing Subscore,6.9,6.7,Average
+1461,676,Houston County,Composite,21.0,20.6,Average
+1463,676,Houston County,Mathematics,20.4,20.1,Average
+1464,676,Houston County,Reading,21.7,21.4,Average
+1465,676,Houston County,Science,21.0,21.0,Average
+1466,676,Houston County,Writing Subscore,6.9,6.7,Average
+1467,676,Houston County,Composite,21.0,20.6,Average
+1469,676,Houston County,Mathematics,20.4,20.1,Average
+1470,676,Houston County,Reading,21.7,21.4,Average
+1471,676,Houston County,Science,21.0,21.0,Average
+1472,676,Houston County,Writing Subscore,6.9,6.7,Average
+1473,676,Houston County,Composite,21.0,20.6,Average
+1475,676,Houston County,Mathematics,20.4,20.1,Average
+1476,676,Houston County,Reading,21.7,21.4,Average
+1477,676,Houston County,Science,21.0,21.0,Average
+1478,676,Houston County,Writing Subscore,6.9,6.7,Average
+1479,677,Irwin County,Composite,21.0,19.9,Average
+1481,677,Irwin County,Mathematics,20.4,19.3,Average
+1482,677,Irwin County,Reading,21.7,20.8,Average
+1483,677,Irwin County,Science,21.0,19.8,Average
+1484,677,Irwin County,Writing Subscore,6.9,6.9,Average
+1485,678,Jackson County,Composite,21.0,21.2,Average
+1487,678,Jackson County,Mathematics,20.4,20.7,Average
+1488,678,Jackson County,Reading,21.7,21.7,Average
+1489,678,Jackson County,Science,21.0,21.6,Average
+1490,678,Jackson County,Writing Subscore,6.9,7.0,Average
+1491,678,Jackson County,Composite,21.0,21.2,Average
+1493,678,Jackson County,Mathematics,20.4,20.7,Average
+1494,678,Jackson County,Reading,21.7,21.7,Average
+1495,678,Jackson County,Science,21.0,21.6,Average
+1496,678,Jackson County,Writing Subscore,6.9,7.0,Average
+1497,679,Jasper County,Composite,21.0,18.8,Below Average
+1499,679,Jasper County,Mathematics,20.4,18.6,Average
+1500,679,Jasper County,Reading,21.7,19.1,Below Average
+1501,679,Jasper County,Science,21.0,19.5,Average
+1502,679,Jasper County,Writing Subscore,6.9,,0
+1503,680,Jeff Davis County,Composite,21.0,17.7,Below Average
+1505,680,Jeff Davis County,Mathematics,20.4,16.8,Below Average
+1506,680,Jeff Davis County,Reading,21.7,18.8,Below Average
+1507,680,Jeff Davis County,Science,21.0,17.0,Below Average
+1508,680,Jeff Davis County,Writing Subscore,6.9,,0
+1509,681,Jefferson County,Composite,21.0,16.6,Below Average
+1511,681,Jefferson County,Mathematics,20.4,16.4,Below Average
+1512,681,Jefferson County,Reading,21.7,17.3,Below Average
+1513,681,Jefferson County,Science,21.0,16.3,Below Average
+1514,681,Jefferson County,Writing Subscore,6.9,,0
+1515,682,Jenkins County,Composite,21.0,17.6,Below Average
+1517,682,Jenkins County,Mathematics,20.4,17.3,Below Average
+1518,682,Jenkins County,Reading,21.7,18.3,Below Average
+1519,682,Jenkins County,Science,21.0,17.4,Below Average
+1520,682,Jenkins County,Writing Subscore,6.9,,0
+1521,683,Johnson County,Composite,21.0,17.6,Below Average
+1523,683,Johnson County,Mathematics,20.4,18.2,Below Average
+1524,683,Johnson County,Reading,21.7,17.3,Below Average
+1525,683,Johnson County,Science,21.0,18.4,Below Average
+1526,683,Johnson County,Writing Subscore,6.9,,0
+1527,684,Jones County,Composite,21.0,19.3,Average
+1529,684,Jones County,Mathematics,20.4,19.4,Average
+1530,684,Jones County,Reading,21.7,19.6,Below Average
+1531,684,Jones County,Science,21.0,19.4,Average
+1532,684,Jones County,Writing Subscore,6.9,6.4,Average
+1533,685,Lamar County,Composite,21.0,18.4,Below Average
+1535,685,Lamar County,Mathematics,20.4,18.2,Below Average
+1536,685,Lamar County,Reading,21.7,19.0,Below Average
+1537,685,Lamar County,Science,21.0,18.9,Below Average
+1538,685,Lamar County,Writing Subscore,6.9,,0
+1539,686,Lanier County,Composite,21.0,17.8,Below Average
+1541,686,Lanier County,Mathematics,20.4,17.5,Below Average
+1542,686,Lanier County,Reading,21.7,18.3,Below Average
+1543,686,Lanier County,Science,21.0,17.9,Below Average
+1544,686,Lanier County,Writing Subscore,6.9,,0
+1545,687,Laurens County,Composite,21.0,18.6,Below Average
+1547,687,Laurens County,Mathematics,20.4,17.9,Below Average
+1548,687,Laurens County,Reading,21.7,19.7,Average
+1549,687,Laurens County,Science,21.0,18.8,Below Average
+1550,687,Laurens County,Writing Subscore,6.9,5.8,Average
+1551,687,Laurens County,Composite,21.0,18.6,Below Average
+1553,687,Laurens County,Mathematics,20.4,17.9,Below Average
+1554,687,Laurens County,Reading,21.7,19.7,Average
+1555,687,Laurens County,Science,21.0,18.8,Below Average
+1556,687,Laurens County,Writing Subscore,6.9,5.8,Average
+1557,688,Lee County,Composite,21.0,21.3,Average
+1559,688,Lee County,Mathematics,20.4,20.8,Average
+1560,688,Lee County,Reading,21.7,22.2,Average
+1561,688,Lee County,Science,21.0,21.1,Average
+1562,688,Lee County,Writing Subscore,6.9,6.7,Average
+1563,689,Liberty County,Composite,21.0,18.9,Below Average
+1565,689,Liberty County,Mathematics,20.4,18.0,Below Average
+1566,689,Liberty County,Reading,21.7,19.9,Average
+1567,689,Liberty County,Science,21.0,19.4,Average
+1568,689,Liberty County,Writing Subscore,6.9,5.9,Average
+1569,689,Liberty County,Composite,21.0,18.9,Below Average
+1571,689,Liberty County,Mathematics,20.4,18.0,Below Average
+1572,689,Liberty County,Reading,21.7,19.9,Average
+1573,689,Liberty County,Science,21.0,19.4,Average
+1574,689,Liberty County,Writing Subscore,6.9,5.9,Average
+1575,690,Lincoln County,Composite,21.0,19.4,Average
+1577,690,Lincoln County,Mathematics,20.4,19.2,Average
+1578,690,Lincoln County,Reading,21.7,19.8,Average
+1579,690,Lincoln County,Science,21.0,20.0,Average
+1580,690,Lincoln County,Writing Subscore,6.9,,0
+1581,691,Long County,Composite,21.0,18.9,Below Average
+1583,691,Long County,Mathematics,20.4,18.4,Average
+1584,691,Long County,Reading,21.7,19.9,Average
+1585,691,Long County,Science,21.0,19.3,Average
+1586,691,Long County,Writing Subscore,6.9,5.8,Average
+1587,692,Lowndes County,Composite,21.0,21.5,Average
+1589,692,Lowndes County,Mathematics,20.4,20.5,Average
+1590,692,Lowndes County,Reading,21.7,22.4,Average
+1591,692,Lowndes County,Science,21.0,21.5,Average
+1592,692,Lowndes County,Writing Subscore,6.9,6.6,Average
+1593,693,Lumpkin County,Composite,21.0,21.5,Average
+1595,693,Lumpkin County,Mathematics,20.4,20.7,Average
+1596,693,Lumpkin County,Reading,21.7,22.4,Average
+1597,693,Lumpkin County,Science,21.0,21.7,Average
+1598,693,Lumpkin County,Writing Subscore,6.9,6.3,Average
+1599,694,Macon County,Composite,21.0,15.6,Below Average
+1601,694,Macon County,Mathematics,20.4,16.0,Below Average
+1602,694,Macon County,Reading,21.7,16.1,Below Average
+1603,694,Macon County,Science,21.0,16.0,Below Average
+1604,694,Macon County,Writing Subscore,6.9,,0
+1605,695,Madison County,Composite,21.0,21.1,Average
+1607,695,Madison County,Mathematics,20.4,20.5,Average
+1608,695,Madison County,Reading,21.7,22.6,Average
+1609,695,Madison County,Science,21.0,21.5,Average
+1610,695,Madison County,Writing Subscore,6.9,,0
+1611,696,Marion County,Composite,21.0,16.8,Below Average
+1613,696,Marion County,Mathematics,20.4,16.1,Below Average
+1614,696,Marion County,Reading,21.7,17.3,Below Average
+1615,696,Marion County,Science,21.0,17.1,Below Average
+1616,696,Marion County,Writing Subscore,6.9,,0
+1617,697,McDuffie County,Composite,21.0,18.4,Below Average
+1619,697,McDuffie County,Mathematics,20.4,17.9,Below Average
+1620,697,McDuffie County,Reading,21.7,19.2,Below Average
+1621,697,McDuffie County,Science,21.0,18.7,Below Average
+1622,697,McDuffie County,Writing Subscore,6.9,5.5,Average
+1623,698,McIntosh County,Composite,21.0,19.6,Average
+1625,698,McIntosh County,Mathematics,20.4,18.3,Below Average
+1626,698,McIntosh County,Reading,21.7,20.7,Average
+1627,698,McIntosh County,Science,21.0,20.1,Average
+1628,698,McIntosh County,Writing Subscore,6.9,,0
+1629,699,Meriwether County,Composite,21.0,16.8,Below Average
+1631,699,Meriwether County,Mathematics,20.4,16.6,Below Average
+1632,699,Meriwether County,Reading,21.7,18.0,Below Average
+1633,699,Meriwether County,Science,21.0,17.1,Below Average
+1634,699,Meriwether County,Writing Subscore,6.9,,0
+1635,699,Meriwether County,Composite,21.0,16.8,Below Average
+1637,699,Meriwether County,Mathematics,20.4,16.6,Below Average
+1638,699,Meriwether County,Reading,21.7,18.0,Below Average
+1639,699,Meriwether County,Science,21.0,17.1,Below Average
+1640,699,Meriwether County,Writing Subscore,6.9,,0
+1641,700,Miller County,Composite,21.0,18.4,Below Average
+1643,700,Miller County,Mathematics,20.4,17.1,Below Average
+1644,700,Miller County,Reading,21.7,20.1,Average
+1645,700,Miller County,Science,21.0,18.5,Below Average
+1646,700,Miller County,Writing Subscore,6.9,,0
+1647,701,Mitchell County,Composite,21.0,17.4,Below Average
+1649,701,Mitchell County,Mathematics,20.4,17.4,Below Average
+1650,701,Mitchell County,Reading,21.7,18.3,Below Average
+1651,701,Mitchell County,Science,21.0,17.5,Below Average
+1652,701,Mitchell County,Writing Subscore,6.9,,0
+1653,701,Mitchell County,Composite,21.0,17.4,Below Average
+1655,701,Mitchell County,Mathematics,20.4,17.4,Below Average
+1656,701,Mitchell County,Reading,21.7,18.3,Below Average
+1657,701,Mitchell County,Science,21.0,17.5,Below Average
+1658,701,Mitchell County,Writing Subscore,6.9,,0
+1659,702,Monroe County,Composite,21.0,20.8,Average
+1661,702,Monroe County,Mathematics,20.4,20.2,Average
+1662,702,Monroe County,Reading,21.7,22.0,Average
+1663,702,Monroe County,Science,21.0,20.8,Average
+1664,702,Monroe County,Writing Subscore,6.9,6.6,Average
+1665,703,Montgomery County,Composite,21.0,,0
+1667,703,Montgomery County,Mathematics,20.4,,0
+1668,703,Montgomery County,Reading,21.7,,0
+1669,703,Montgomery County,Science,21.0,,0
+1670,703,Montgomery County,Writing Subscore,6.9,,0
+1671,704,Morgan County,Composite,21.0,20.8,Average
+1673,704,Morgan County,Mathematics,20.4,20.3,Average
+1674,704,Morgan County,Reading,21.7,21.3,Average
+1675,704,Morgan County,Science,21.0,20.5,Average
+1676,704,Morgan County,Writing Subscore,6.9,6.7,Average
+1677,705,Murray County,Composite,21.0,18.7,Below Average
+1679,705,Murray County,Mathematics,20.4,17.9,Below Average
+1680,705,Murray County,Reading,21.7,19.8,Average
+1681,705,Murray County,Science,21.0,19.0,Average
+1682,705,Murray County,Writing Subscore,6.9,6.8,Average
+1683,705,Murray County,Composite,21.0,18.7,Below Average
+1685,705,Murray County,Mathematics,20.4,17.9,Below Average
+1686,705,Murray County,Reading,21.7,19.8,Average
+1687,705,Murray County,Science,21.0,19.0,Average
+1688,705,Murray County,Writing Subscore,6.9,6.8,Average
+1689,706,Muscogee County,Composite,21.0,19.6,Average
+1691,706,Muscogee County,Mathematics,20.4,19.1,Average
+1692,706,Muscogee County,Reading,21.7,20.3,Average
+1693,706,Muscogee County,Science,21.0,19.6,Average
+1694,706,Muscogee County,Writing Subscore,6.9,6.5,Average
+1695,706,Muscogee County,Composite,21.0,19.6,Average
+1697,706,Muscogee County,Mathematics,20.4,19.1,Average
+1698,706,Muscogee County,Reading,21.7,20.3,Average
+1699,706,Muscogee County,Science,21.0,19.6,Average
+1700,706,Muscogee County,Writing Subscore,6.9,6.5,Average
+1701,706,Muscogee County,Composite,21.0,19.6,Average
+1703,706,Muscogee County,Mathematics,20.4,19.1,Average
+1704,706,Muscogee County,Reading,21.7,20.3,Average
+1705,706,Muscogee County,Science,21.0,19.6,Average
+1706,706,Muscogee County,Writing Subscore,6.9,6.5,Average
+1707,706,Muscogee County,Composite,21.0,19.6,Average
+1709,706,Muscogee County,Mathematics,20.4,19.1,Average
+1710,706,Muscogee County,Reading,21.7,20.3,Average
+1711,706,Muscogee County,Science,21.0,19.6,Average
+1712,706,Muscogee County,Writing Subscore,6.9,6.5,Average
+1713,706,Muscogee County,Composite,21.0,19.6,Average
+1715,706,Muscogee County,Mathematics,20.4,19.1,Average
+1716,706,Muscogee County,Reading,21.7,20.3,Average
+1717,706,Muscogee County,Science,21.0,19.6,Average
+1718,706,Muscogee County,Writing Subscore,6.9,6.5,Average
+1719,706,Muscogee County,Composite,21.0,19.6,Average
+1721,706,Muscogee County,Mathematics,20.4,19.1,Average
+1722,706,Muscogee County,Reading,21.7,20.3,Average
+1723,706,Muscogee County,Science,21.0,19.6,Average
+1724,706,Muscogee County,Writing Subscore,6.9,6.5,Average
+1725,706,Muscogee County,Composite,21.0,19.6,Average
+1727,706,Muscogee County,Mathematics,20.4,19.1,Average
+1728,706,Muscogee County,Reading,21.7,20.3,Average
+1729,706,Muscogee County,Science,21.0,19.6,Average
+1730,706,Muscogee County,Writing Subscore,6.9,6.5,Average
+1731,706,Muscogee County,Composite,21.0,19.6,Average
+1733,706,Muscogee County,Mathematics,20.4,19.1,Average
+1734,706,Muscogee County,Reading,21.7,20.3,Average
+1735,706,Muscogee County,Science,21.0,19.6,Average
+1736,706,Muscogee County,Writing Subscore,6.9,6.5,Average
+1737,706,Muscogee County,Composite,21.0,19.6,Average
+1739,706,Muscogee County,Mathematics,20.4,19.1,Average
+1740,706,Muscogee County,Reading,21.7,20.3,Average
+1741,706,Muscogee County,Science,21.0,19.6,Average
+1742,706,Muscogee County,Writing Subscore,6.9,6.5,Average
+1743,707,Newton County,Composite,21.0,19.3,Average
+1745,707,Newton County,Mathematics,20.4,18.3,Below Average
+1746,707,Newton County,Reading,21.7,20.1,Average
+1747,707,Newton County,Science,21.0,19.7,Average
+1748,707,Newton County,Writing Subscore,6.9,6.6,Average
+1749,707,Newton County,Composite,21.0,19.3,Average
+1751,707,Newton County,Mathematics,20.4,18.3,Below Average
+1752,707,Newton County,Reading,21.7,20.1,Average
+1753,707,Newton County,Science,21.0,19.7,Average
+1754,707,Newton County,Writing Subscore,6.9,6.6,Average
+1755,707,Newton County,Composite,21.0,19.3,Average
+1757,707,Newton County,Mathematics,20.4,18.3,Below Average
+1758,707,Newton County,Reading,21.7,20.1,Average
+1759,707,Newton County,Science,21.0,19.7,Average
+1760,707,Newton County,Writing Subscore,6.9,6.6,Average
+1761,708,Oconee County,Composite,21.0,24.0,Above Average
+1763,708,Oconee County,Mathematics,20.4,23.2,Above Average
+1764,708,Oconee County,Reading,21.7,24.8,Above Average
+1765,708,Oconee County,Science,21.0,23.6,Above Average
+1766,708,Oconee County,Writing Subscore,6.9,7.5,Average
+1767,708,Oconee County,Composite,21.0,24.0,Above Average
+1769,708,Oconee County,Mathematics,20.4,23.2,Above Average
+1770,708,Oconee County,Reading,21.7,24.8,Above Average
+1771,708,Oconee County,Science,21.0,23.6,Above Average
+1772,708,Oconee County,Writing Subscore,6.9,7.5,Average
+1773,709,Oglethorpe County,Composite,21.0,21.0,Average
+1775,709,Oglethorpe County,Mathematics,20.4,20.6,Average
+1776,709,Oglethorpe County,Reading,21.7,21.5,Average
+1777,709,Oglethorpe County,Science,21.0,20.9,Average
+1778,709,Oglethorpe County,Writing Subscore,6.9,7.4,Average
+1779,710,Paulding County,Composite,21.0,20.5,Average
+1781,710,Paulding County,Mathematics,20.4,19.8,Average
+1782,710,Paulding County,Reading,21.7,21.3,Average
+1783,710,Paulding County,Science,21.0,20.8,Average
+1784,710,Paulding County,Writing Subscore,6.9,6.7,Average
+1785,710,Paulding County,Composite,21.0,20.5,Average
+1787,710,Paulding County,Mathematics,20.4,19.8,Average
+1788,710,Paulding County,Reading,21.7,21.3,Average
+1789,710,Paulding County,Science,21.0,20.8,Average
+1790,710,Paulding County,Writing Subscore,6.9,6.7,Average
+1791,710,Paulding County,Composite,21.0,20.5,Average
+1793,710,Paulding County,Mathematics,20.4,19.8,Average
+1794,710,Paulding County,Reading,21.7,21.3,Average
+1795,710,Paulding County,Science,21.0,20.8,Average
+1796,710,Paulding County,Writing Subscore,6.9,6.7,Average
+1797,710,Paulding County,Composite,21.0,20.5,Average
+1799,710,Paulding County,Mathematics,20.4,19.8,Average
+1800,710,Paulding County,Reading,21.7,21.3,Average
+1801,710,Paulding County,Science,21.0,20.8,Average
+1802,710,Paulding County,Writing Subscore,6.9,6.7,Average
+1803,710,Paulding County,Composite,21.0,20.5,Average
+1805,710,Paulding County,Mathematics,20.4,19.8,Average
+1806,710,Paulding County,Reading,21.7,21.3,Average
+1807,710,Paulding County,Science,21.0,20.8,Average
+1808,710,Paulding County,Writing Subscore,6.9,6.7,Average
+1809,711,Peach County,Composite,21.0,18.1,Below Average
+1811,711,Peach County,Mathematics,20.4,17.7,Below Average
+1812,711,Peach County,Reading,21.7,18.8,Below Average
+1813,711,Peach County,Science,21.0,18.8,Below Average
+1814,711,Peach County,Writing Subscore,6.9,6.5,Average
+1815,712,Pickens County,Composite,21.0,22.1,Average
+1817,712,Pickens County,Mathematics,20.4,21.6,Average
+1818,712,Pickens County,Reading,21.7,23.0,Average
+1819,712,Pickens County,Science,21.0,21.9,Average
+1820,712,Pickens County,Writing Subscore,6.9,6.6,Average
+1821,713,Pierce County,Composite,21.0,20.4,Average
+1823,713,Pierce County,Mathematics,20.4,20.8,Average
+1824,713,Pierce County,Reading,21.7,20.8,Average
+1825,713,Pierce County,Science,21.0,20.8,Average
+1826,713,Pierce County,Writing Subscore,6.9,6.9,Average
+1827,714,Pike County,Composite,21.0,21.2,Average
+1829,714,Pike County,Mathematics,20.4,20.3,Average
+1830,714,Pike County,Reading,21.7,22.2,Average
+1831,714,Pike County,Science,21.0,21.3,Average
+1832,714,Pike County,Writing Subscore,6.9,6.7,Average
+1833,715,Polk County,Composite,21.0,19.2,Average
+1835,715,Polk County,Mathematics,20.4,18.5,Average
+1836,715,Polk County,Reading,21.7,20.7,Average
+1837,715,Polk County,Science,21.0,19.1,Average
+1838,715,Polk County,Writing Subscore,6.9,5.8,Average
+1839,715,Polk County,Composite,21.0,19.2,Average
+1841,715,Polk County,Mathematics,20.4,18.5,Average
+1842,715,Polk County,Reading,21.7,20.7,Average
+1843,715,Polk County,Science,21.0,19.1,Average
+1844,715,Polk County,Writing Subscore,6.9,5.8,Average
+1845,716,Pulaski County,Composite,21.0,19.4,Average
+1847,716,Pulaski County,Mathematics,20.4,18.0,Below Average
+1848,716,Pulaski County,Reading,21.7,20.9,Average
+1849,716,Pulaski County,Science,21.0,19.2,Average
+1850,716,Pulaski County,Writing Subscore,6.9,,0
+1851,717,Putnam County,Composite,21.0,18.6,Below Average
+1853,717,Putnam County,Mathematics,20.4,17.5,Below Average
+1854,717,Putnam County,Reading,21.7,19.5,Below Average
+1855,717,Putnam County,Science,21.0,19.4,Average
+1856,717,Putnam County,Writing Subscore,6.9,,0
+1857,718,Quitman County,Composite,21.0,16.3,Below Average
+1859,718,Quitman County,Mathematics,20.4,15.4,Below Average
+1860,718,Quitman County,Reading,21.7,16.3,Below Average
+1861,718,Quitman County,Science,21.0,16.0,Below Average
+1862,718,Quitman County,Writing Subscore,6.9,,0
+1863,719,Rabun County,Composite,21.0,20.2,Average
+1865,719,Rabun County,Mathematics,20.4,20.2,Average
+1866,719,Rabun County,Reading,21.7,20.7,Average
+1867,719,Rabun County,Science,21.0,21.0,Average
+1868,719,Rabun County,Writing Subscore,6.9,6.7,Average
+1869,720,Randolph County,Composite,21.0,15.8,Below Average
+1871,720,Randolph County,Mathematics,20.4,15.6,Below Average
+1872,720,Randolph County,Reading,21.7,17.3,Below Average
+1873,720,Randolph County,Science,21.0,15.5,Below Average
+1874,720,Randolph County,Writing Subscore,6.9,,0
+1875,721,Richmond County,Composite,21.0,18.4,Below Average
+1877,721,Richmond County,Mathematics,20.4,18.1,Below Average
+1878,721,Richmond County,Reading,21.7,19.1,Below Average
+1879,721,Richmond County,Science,21.0,18.7,Below Average
+1880,721,Richmond County,Writing Subscore,6.9,6.1,Average
+1881,721,Richmond County,Composite,21.0,18.4,Below Average
+1883,721,Richmond County,Mathematics,20.4,18.1,Below Average
+1884,721,Richmond County,Reading,21.7,19.1,Below Average
+1885,721,Richmond County,Science,21.0,18.7,Below Average
+1886,721,Richmond County,Writing Subscore,6.9,6.1,Average
+1887,721,Richmond County,Composite,21.0,18.4,Below Average
+1889,721,Richmond County,Mathematics,20.4,18.1,Below Average
+1890,721,Richmond County,Reading,21.7,19.1,Below Average
+1891,721,Richmond County,Science,21.0,18.7,Below Average
+1892,721,Richmond County,Writing Subscore,6.9,6.1,Average
+1893,721,Richmond County,Composite,21.0,18.4,Below Average
+1895,721,Richmond County,Mathematics,20.4,18.1,Below Average
+1896,721,Richmond County,Reading,21.7,19.1,Below Average
+1897,721,Richmond County,Science,21.0,18.7,Below Average
+1898,721,Richmond County,Writing Subscore,6.9,6.1,Average
+1899,721,Richmond County,Composite,21.0,18.4,Below Average
+1901,721,Richmond County,Mathematics,20.4,18.1,Below Average
+1902,721,Richmond County,Reading,21.7,19.1,Below Average
+1903,721,Richmond County,Science,21.0,18.7,Below Average
+1904,721,Richmond County,Writing Subscore,6.9,6.1,Average
+1905,721,Richmond County,Composite,21.0,18.4,Below Average
+1907,721,Richmond County,Mathematics,20.4,18.1,Below Average
+1908,721,Richmond County,Reading,21.7,19.1,Below Average
+1909,721,Richmond County,Science,21.0,18.7,Below Average
+1910,721,Richmond County,Writing Subscore,6.9,6.1,Average
+1911,721,Richmond County,Composite,21.0,18.4,Below Average
+1913,721,Richmond County,Mathematics,20.4,18.1,Below Average
+1914,721,Richmond County,Reading,21.7,19.1,Below Average
+1915,721,Richmond County,Science,21.0,18.7,Below Average
+1916,721,Richmond County,Writing Subscore,6.9,6.1,Average
+1917,721,Richmond County,Composite,21.0,18.4,Below Average
+1919,721,Richmond County,Mathematics,20.4,18.1,Below Average
+1920,721,Richmond County,Reading,21.7,19.1,Below Average
+1921,721,Richmond County,Science,21.0,18.7,Below Average
+1922,721,Richmond County,Writing Subscore,6.9,6.1,Average
+1923,721,Richmond County,Composite,21.0,18.4,Below Average
+1925,721,Richmond County,Mathematics,20.4,18.1,Below Average
+1926,721,Richmond County,Reading,21.7,19.1,Below Average
+1927,721,Richmond County,Science,21.0,18.7,Below Average
+1928,721,Richmond County,Writing Subscore,6.9,6.1,Average
+1929,721,Richmond County,Composite,21.0,18.4,Below Average
+1931,721,Richmond County,Mathematics,20.4,18.1,Below Average
+1932,721,Richmond County,Reading,21.7,19.1,Below Average
+1933,721,Richmond County,Science,21.0,18.7,Below Average
+1934,721,Richmond County,Writing Subscore,6.9,6.1,Average
+1935,722,Rockdale County,Composite,21.0,18.7,Below Average
+1937,722,Rockdale County,Mathematics,20.4,18.0,Below Average
+1938,722,Rockdale County,Reading,21.7,19.3,Below Average
+1939,722,Rockdale County,Science,21.0,18.8,Below Average
+1940,722,Rockdale County,Writing Subscore,6.9,6.4,Average
+1941,722,Rockdale County,Composite,21.0,18.7,Below Average
+1943,722,Rockdale County,Mathematics,20.4,18.0,Below Average
+1944,722,Rockdale County,Reading,21.7,19.3,Below Average
+1945,722,Rockdale County,Science,21.0,18.8,Below Average
+1946,722,Rockdale County,Writing Subscore,6.9,6.4,Average
+1947,722,Rockdale County,Composite,21.0,18.7,Below Average
+1949,722,Rockdale County,Mathematics,20.4,18.0,Below Average
+1950,722,Rockdale County,Reading,21.7,19.3,Below Average
+1951,722,Rockdale County,Science,21.0,18.8,Below Average
+1952,722,Rockdale County,Writing Subscore,6.9,6.4,Average
+1953,723,Schley County,Composite,21.0,19.4,Average
+1955,723,Schley County,Mathematics,20.4,18.3,Below Average
+1956,723,Schley County,Reading,21.7,20.6,Average
+1957,723,Schley County,Science,21.0,19.6,Average
+1958,723,Schley County,Writing Subscore,6.9,5.9,Average
+1959,724,Screven County,Composite,21.0,18.9,Below Average
+1961,724,Screven County,Mathematics,20.4,18.8,Average
+1962,724,Screven County,Reading,21.7,19.5,Below Average
+1963,724,Screven County,Science,21.0,19.3,Average
+1964,724,Screven County,Writing Subscore,6.9,6.2,Average
+1965,725,Seminole County,Composite,21.0,18.1,Below Average
+1967,725,Seminole County,Mathematics,20.4,16.9,Below Average
+1968,725,Seminole County,Reading,21.7,19.5,Below Average
+1969,725,Seminole County,Science,21.0,17.8,Below Average
+1970,725,Seminole County,Writing Subscore,6.9,,0
+1971,726,Griffin-Spalding County,Composite,21.0,18.5,Below Average
+1973,726,Griffin-Spalding County,Mathematics,20.4,17.9,Below Average
+1974,726,Griffin-Spalding County,Reading,21.7,19.2,Below Average
+1975,726,Griffin-Spalding County,Science,21.0,19.0,Average
+1976,726,Griffin-Spalding County,Writing Subscore,6.9,5.9,Average
+1977,726,Griffin-Spalding County,Composite,21.0,18.5,Below Average
+1979,726,Griffin-Spalding County,Mathematics,20.4,17.9,Below Average
+1980,726,Griffin-Spalding County,Reading,21.7,19.2,Below Average
+1981,726,Griffin-Spalding County,Science,21.0,19.0,Average
+1982,726,Griffin-Spalding County,Writing Subscore,6.9,5.9,Average
+1983,727,Stephens County,Composite,21.0,20.2,Average
+1985,727,Stephens County,Mathematics,20.4,20.0,Average
+1986,727,Stephens County,Reading,21.7,20.8,Average
+1987,727,Stephens County,Science,21.0,19.9,Average
+1988,727,Stephens County,Writing Subscore,6.9,6.0,Average
+1989,728,Stewart County,Composite,21.0,15.1,Below Average
+1991,728,Stewart County,Mathematics,20.4,16.4,Below Average
+1992,728,Stewart County,Reading,21.7,14.4,Below Average
+1993,728,Stewart County,Science,21.0,15.9,Below Average
+1994,728,Stewart County,Writing Subscore,6.9,,0
+1995,729,Sumter County,Composite,21.0,17.1,Below Average
+1997,729,Sumter County,Mathematics,20.4,16.5,Below Average
+1998,729,Sumter County,Reading,21.7,18.2,Below Average
+1999,729,Sumter County,Science,21.0,17.8,Below Average
+2000,729,Sumter County,Writing Subscore,6.9,6.6,Average
+2001,730,Talbot County,Composite,21.0,,0
+2003,730,Talbot County,Mathematics,20.4,,0
+2004,730,Talbot County,Reading,21.7,,0
+2005,730,Talbot County,Science,21.0,,0
+2006,731,Taliaferro County,Composite,21.0,,0
+2008,731,Taliaferro County,Mathematics,20.4,,0
+2009,731,Taliaferro County,Reading,21.7,,0
+2010,731,Taliaferro County,Science,21.0,,0
+2011,731,Taliaferro County,Writing Subscore,6.9,,0
+2012,732,Tattnall County,Composite,21.0,19.7,Average
+2014,732,Tattnall County,Mathematics,20.4,20.0,Average
+2015,732,Tattnall County,Reading,21.7,19.7,Average
+2016,732,Tattnall County,Science,21.0,18.9,Below Average
+2017,732,Tattnall County,Writing Subscore,6.9,,0
+2018,733,Taylor County,Composite,21.0,19.1,Average
+2020,733,Taylor County,Mathematics,20.4,17.6,Below Average
+2021,733,Taylor County,Reading,21.7,20.4,Average
+2022,733,Taylor County,Science,21.0,19.5,Average
+2023,733,Taylor County,Writing Subscore,6.9,,0
+2024,734,Telfair County,Composite,21.0,,0
+2026,734,Telfair County,Mathematics,20.4,,0
+2027,734,Telfair County,Reading,21.7,,0
+2028,734,Telfair County,Science,21.0,,0
+2029,734,Telfair County,Writing Subscore,6.9,,0
+2030,735,Terrell County,Composite,21.0,16.0,Below Average
+2032,735,Terrell County,Mathematics,20.4,16.9,Below Average
+2033,735,Terrell County,Reading,21.7,16.1,Below Average
+2034,735,Terrell County,Science,21.0,16.1,Below Average
+2035,735,Terrell County,Writing Subscore,6.9,5.8,Average
+2036,736,Thomas County,Composite,21.0,18.8,Below Average
+2038,736,Thomas County,Mathematics,20.4,17.5,Below Average
+2039,736,Thomas County,Reading,21.7,19.8,Average
+2040,736,Thomas County,Science,21.0,19.2,Average
+2041,736,Thomas County,Composite,21.0,18.8,Below Average
+2043,736,Thomas County,Mathematics,20.4,17.5,Below Average
+2044,736,Thomas County,Reading,21.7,19.8,Average
+2045,736,Thomas County,Science,21.0,19.2,Average
+2046,736,Thomas County,Writing Subscore,6.9,5.8,Average
+2047,737,Tift County,Composite,21.0,19.6,Average
+2049,737,Tift County,Mathematics,20.4,18.5,Average
+2050,737,Tift County,Reading,21.7,21.0,Average
+2051,737,Tift County,Science,21.0,19.9,Average
+2052,737,Tift County,Writing Subscore,6.9,6.5,Average
+2053,738,Toombs County,Composite,21.0,17.9,Below Average
+2055,738,Toombs County,Mathematics,20.4,16.8,Below Average
+2056,738,Toombs County,Reading,21.7,20.6,Average
+2057,738,Toombs County,Science,21.0,17.8,Below Average
+2058,739,Towns County,Composite,21.0,21.0,Average
+2060,739,Towns County,Mathematics,20.4,19.0,Average
+2061,739,Towns County,Reading,21.7,22.9,Average
+2062,739,Towns County,Science,21.0,20.7,Average
+2063,739,Towns County,Writing Subscore,6.9,,0
+2064,740,Treutlen County,Composite,21.0,,0
+2066,740,Treutlen County,Mathematics,20.4,,0
+2067,740,Treutlen County,Reading,21.7,,0
+2068,740,Treutlen County,Science,21.0,,0
+2069,741,Troup County,Composite,21.0,19.7,Average
+2071,741,Troup County,Mathematics,20.4,19.5,Average
+2072,741,Troup County,Reading,21.7,20.1,Average
+2073,741,Troup County,Science,21.0,19.9,Average
+2074,741,Troup County,Writing Subscore,6.9,6.3,Average
+2075,741,Troup County,Composite,21.0,19.7,Average
+2077,741,Troup County,Mathematics,20.4,19.5,Average
+2078,741,Troup County,Reading,21.7,20.1,Average
+2079,741,Troup County,Science,21.0,19.9,Average
+2080,741,Troup County,Writing Subscore,6.9,6.3,Average
+2081,741,Troup County,Composite,21.0,19.7,Average
+2083,741,Troup County,Mathematics,20.4,19.5,Average
+2084,741,Troup County,Reading,21.7,20.1,Average
+2085,741,Troup County,Science,21.0,19.9,Average
+2086,741,Troup County,Writing Subscore,6.9,6.3,Average
+2087,742,Turner County,Composite,21.0,16.7,Below Average
+2089,742,Turner County,Mathematics,20.4,16.4,Below Average
+2090,742,Turner County,Reading,21.7,17.2,Below Average
+2091,742,Turner County,Science,21.0,16.9,Below Average
+2092,742,Turner County,Writing Subscore,6.9,6.1,Average
+2093,743,Twiggs County,Composite,21.0,15.8,Below Average
+2095,743,Twiggs County,Mathematics,20.4,15.9,Below Average
+2096,743,Twiggs County,Reading,21.7,15.5,Below Average
+2097,743,Twiggs County,Science,21.0,16.6,Below Average
+2098,743,Twiggs County,Writing Subscore,6.9,,0
+2099,744,Union County,Composite,21.0,20.6,Average
+2101,744,Union County,Mathematics,20.4,19.6,Average
+2102,744,Union County,Reading,21.7,21.9,Average
+2103,744,Union County,Science,21.0,20.4,Average
+2104,744,Union County,Writing Subscore,6.9,6.3,Average
+2105,744,Union County,Composite,21.0,20.6,Average
+2107,744,Union County,Mathematics,20.4,19.6,Average
+2108,744,Union County,Reading,21.7,21.9,Average
+2109,744,Union County,Science,21.0,20.4,Average
+2110,744,Union County,Writing Subscore,6.9,6.3,Average
+2111,745,Thomaston-Upson County,Composite,21.0,18.5,Below Average
+2113,745,Thomaston-Upson County,Mathematics,20.4,18.0,Below Average
+2114,745,Thomaston-Upson County,Reading,21.7,19.6,Below Average
+2115,745,Thomaston-Upson County,Science,21.0,19.0,Average
+2116,745,Thomaston-Upson County,Writing Subscore,6.9,6.7,Average
+2117,746,Walker County,Composite,21.0,19.7,Average
+2119,746,Walker County,Mathematics,20.4,18.9,Average
+2120,746,Walker County,Reading,21.7,20.5,Average
+2121,746,Walker County,Science,21.0,19.8,Average
+2122,746,Walker County,Writing Subscore,6.9,6.2,Average
+2123,746,Walker County,Composite,21.0,19.7,Average
+2125,746,Walker County,Mathematics,20.4,18.9,Average
+2126,746,Walker County,Reading,21.7,20.5,Average
+2127,746,Walker County,Science,21.0,19.8,Average
+2128,746,Walker County,Writing Subscore,6.9,6.2,Average
+2129,747,Walton County,Composite,21.0,20.3,Average
+2131,747,Walton County,Mathematics,20.4,19.7,Average
+2132,747,Walton County,Reading,21.7,20.9,Average
+2133,747,Walton County,Science,21.0,20.5,Average
+2134,747,Walton County,Writing Subscore,6.9,6.7,Average
+2135,747,Walton County,Composite,21.0,20.3,Average
+2137,747,Walton County,Mathematics,20.4,19.7,Average
+2138,747,Walton County,Reading,21.7,20.9,Average
+2139,747,Walton County,Science,21.0,20.5,Average
+2140,747,Walton County,Writing Subscore,6.9,6.7,Average
+2141,747,Walton County,Composite,21.0,20.3,Average
+2143,747,Walton County,Mathematics,20.4,19.7,Average
+2144,747,Walton County,Reading,21.7,20.9,Average
+2145,747,Walton County,Science,21.0,20.5,Average
+2146,747,Walton County,Writing Subscore,6.9,6.7,Average
+2147,748,Ware County,Composite,21.0,19.8,Average
+2149,748,Ware County,Mathematics,20.4,19.0,Average
+2150,748,Ware County,Reading,21.7,20.9,Average
+2151,748,Ware County,Science,21.0,19.6,Average
+2152,748,Ware County,Writing Subscore,6.9,6.7,Average
+2153,749,Warren County,Composite,21.0,18.1,Below Average
+2155,749,Warren County,Mathematics,20.4,18.3,Below Average
+2156,749,Warren County,Reading,21.7,18.6,Below Average
+2157,749,Warren County,Science,21.0,18.6,Below Average
+2158,749,Warren County,Writing Subscore,6.9,,0
+2159,750,Washington County,Composite,21.0,18.7,Below Average
+2161,750,Washington County,Mathematics,20.4,18.3,Below Average
+2162,750,Washington County,Reading,21.7,19.9,Average
+2163,750,Washington County,Science,21.0,18.3,Below Average
+2164,750,Washington County,Writing Subscore,6.9,5.8,Average
+2165,751,Wayne County,Composite,21.0,17.6,Below Average
+2167,751,Wayne County,Mathematics,20.4,17.5,Below Average
+2168,751,Wayne County,Reading,21.7,18.3,Below Average
+2169,751,Wayne County,Science,21.0,17.7,Below Average
+2170,751,Wayne County,Writing Subscore,6.9,5.2,Average
+2171,752,Webster County,Composite,21.0,17.5,Below Average
+2173,752,Webster County,Mathematics,20.4,17.4,Below Average
+2174,752,Webster County,Reading,21.7,19.1,Below Average
+2175,752,Webster County,Science,21.0,16.6,Below Average
+2176,753,Wheeler County,Composite,21.0,,0
+2178,753,Wheeler County,Mathematics,20.4,,0
+2179,753,Wheeler County,Reading,21.7,,0
+2180,753,Wheeler County,Science,21.0,,0
+2181,753,Wheeler County,Writing Subscore,6.9,,0
+2182,754,White County,Composite,21.0,21.2,Average
+2184,754,White County,Mathematics,20.4,20.4,Average
+2185,754,White County,Reading,21.7,22.1,Average
+2186,754,White County,Science,21.0,20.8,Average
+2187,754,White County,Writing Subscore,6.9,7.6,Average
+2188,755,Whitfield County,Composite,21.0,19.7,Average
+2190,755,Whitfield County,Mathematics,20.4,19.3,Average
+2191,755,Whitfield County,Reading,21.7,20.3,Average
+2192,755,Whitfield County,Science,21.0,19.9,Average
+2193,755,Whitfield County,Writing Subscore,6.9,6.6,Average
+2194,755,Whitfield County,Composite,21.0,19.7,Average
+2196,755,Whitfield County,Mathematics,20.4,19.3,Average
+2197,755,Whitfield County,Reading,21.7,20.3,Average
+2198,755,Whitfield County,Science,21.0,19.9,Average
+2199,755,Whitfield County,Writing Subscore,6.9,6.6,Average
+2200,755,Whitfield County,Composite,21.0,19.7,Average
+2202,755,Whitfield County,Mathematics,20.4,19.3,Average
+2203,755,Whitfield County,Reading,21.7,20.3,Average
+2204,755,Whitfield County,Science,21.0,19.9,Average
+2205,755,Whitfield County,Writing Subscore,6.9,6.6,Average
+2206,756,Wilcox County,Composite,21.0,17.9,Below Average
+2208,756,Wilcox County,Mathematics,20.4,17.0,Below Average
+2209,756,Wilcox County,Reading,21.7,19.3,Below Average
+2210,756,Wilcox County,Science,21.0,18.4,Below Average
+2211,756,Wilcox County,Writing Subscore,6.9,,0
+2212,757,Wilkes County,Composite,21.0,16.7,Below Average
+2214,757,Wilkes County,Mathematics,20.4,16.9,Below Average
+2215,757,Wilkes County,Reading,21.7,16.4,Below Average
+2216,757,Wilkes County,Science,21.0,17.7,Below Average
+2217,757,Wilkes County,Writing Subscore,6.9,,0
+2218,758,Wilkinson County,Composite,21.0,17.0,Below Average
+2220,758,Wilkinson County,Mathematics,20.4,16.6,Below Average
+2221,758,Wilkinson County,Reading,21.7,17.0,Below Average
+2222,758,Wilkinson County,Science,21.0,17.4,Below Average
+2223,758,Wilkinson County,Writing Subscore,6.9,,0
+2224,759,Worth County,Composite,21.0,18.4,Below Average
+2226,759,Worth County,Mathematics,20.4,17.7,Below Average
+2227,759,Worth County,Reading,21.7,19.1,Below Average
+2228,759,Worth County,Science,21.0,19.2,Average
+2229,759,Worth County,Writing Subscore,6.9,,0
+2230,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2232,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2233,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2234,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2235,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2236,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2238,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2239,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2240,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2241,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2242,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2244,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2245,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2246,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2247,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2248,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2250,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2251,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2252,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2253,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2254,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2256,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2257,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2258,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2259,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2260,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2262,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2263,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2264,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2265,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2266,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2268,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2269,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2270,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2271,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2272,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2274,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2275,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2276,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2277,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2278,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2280,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2281,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2282,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2283,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2284,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2286,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2287,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2288,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2289,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2290,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2292,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2293,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2294,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2295,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2296,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2298,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2299,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2300,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2301,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2302,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2304,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2305,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2306,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2307,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2308,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2310,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2311,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2312,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2313,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2314,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2316,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2317,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2318,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2319,761,Atlanta Public Schools,Writing Subscore,6.9,6.3,Average
+2320,761,Atlanta Public Schools,Composite,21.0,18.8,Below Average
+2322,761,Atlanta Public Schools,Mathematics,20.4,18.4,Average
+2323,761,Atlanta Public Schools,Reading,21.7,19.4,Below Average
+2324,761,Atlanta Public Schools,Science,21.0,18.7,Below Average
+2325,763,Bremen City,Composite,21.0,21.6,Average
+2327,763,Bremen City,Mathematics,20.4,20.5,Average
+2328,763,Bremen City,Reading,21.7,22.2,Average
+2329,763,Bremen City,Science,21.0,21.3,Average
+2330,763,Bremen City,Writing Subscore,6.9,6.6,Average
+2331,764,Buford City,Composite,21.0,23.2,Above Average
+2333,764,Buford City,Mathematics,20.4,23.5,Above Average
+2334,764,Buford City,Reading,21.7,23.2,Average
+2335,764,Buford City,Science,21.0,23.3,Above Average
+2336,764,Buford City,Writing Subscore,6.9,7.2,Average
+2337,765,Calhoun City,Composite,21.0,20.6,Average
+2339,765,Calhoun City,Mathematics,20.4,19.9,Average
+2340,765,Calhoun City,Reading,21.7,21.5,Average
+2341,765,Calhoun City,Science,21.0,21.0,Average
+2342,765,Calhoun City,Writing Subscore,6.9,6.3,Average
+2343,766,Carrollton City,Composite,21.0,20.7,Average
+2345,766,Carrollton City,Mathematics,20.4,20.1,Average
+2346,766,Carrollton City,Reading,21.7,21.3,Average
+2347,766,Carrollton City,Science,21.0,20.4,Average
+2348,766,Carrollton City,Writing Subscore,6.9,6.6,Average
+2349,767,Cartersville City,Composite,21.0,20.8,Average
+2351,767,Cartersville City,Mathematics,20.4,20.4,Average
+2352,767,Cartersville City,Reading,21.7,21.2,Average
+2353,767,Cartersville City,Science,21.0,20.8,Average
+2354,767,Cartersville City,Writing Subscore,6.9,6.5,Average
+2355,769,Chickamauga City,Composite,21.0,20.5,Average
+2357,769,Chickamauga City,Mathematics,20.4,19.1,Average
+2358,769,Chickamauga City,Reading,21.7,21.7,Average
+2359,769,Chickamauga City,Science,21.0,20.4,Average
+2360,769,Chickamauga City,Writing Subscore,6.9,6.5,Average
+2361,771,Commerce City,Composite,21.0,20.7,Average
+2363,771,Commerce City,Mathematics,20.4,19.1,Average
+2364,771,Commerce City,Reading,21.7,22.2,Average
+2365,771,Commerce City,Science,21.0,21.0,Average
+2366,771,Commerce City,Writing Subscore,6.9,,0
+2367,772,Dalton Public Schools,Composite,21.0,21.5,Average
+2369,772,Dalton Public Schools,Mathematics,20.4,20.7,Average
+2370,772,Dalton Public Schools,Reading,21.7,22.8,Average
+2371,772,Dalton Public Schools,Science,21.0,21.1,Average
+2372,772,Dalton Public Schools,Writing Subscore,6.9,7.4,Average
+2373,772,Dalton Public Schools,Composite,21.0,21.5,Average
+2375,772,Dalton Public Schools,Mathematics,20.4,20.7,Average
+2376,772,Dalton Public Schools,Reading,21.7,22.8,Average
+2377,772,Dalton Public Schools,Science,21.0,21.1,Average
+2378,772,Dalton Public Schools,Writing Subscore,6.9,7.4,Average
+2379,773,Decatur City,Composite,21.0,25.1,Above Average
+2381,773,Decatur City,Mathematics,20.4,23.4,Above Average
+2382,773,Decatur City,Reading,21.7,26.7,Above Average
+2383,773,Decatur City,Science,21.0,24.7,Above Average
+2384,773,Decatur City,Writing Subscore,6.9,7.9,Average
+2385,774,Dublin City,Composite,21.0,16.8,Below Average
+2387,774,Dublin City,Mathematics,20.4,16.3,Below Average
+2388,774,Dublin City,Reading,21.7,17.7,Below Average
+2389,774,Dublin City,Science,21.0,16.8,Below Average
+2390,774,Dublin City,Writing Subscore,6.9,5.1,Average
+2391,776,Gainesville City,Composite,21.0,19.8,Average
+2393,776,Gainesville City,Mathematics,20.4,19.9,Average
+2394,776,Gainesville City,Reading,21.7,19.9,Average
+2395,776,Gainesville City,Science,21.0,19.3,Average
+2396,776,Gainesville City,Writing Subscore,6.9,6.5,Average
+2397,779,Jefferson City,Composite,21.0,22.1,Average
+2399,779,Jefferson City,Mathematics,20.4,20.9,Average
+2400,779,Jefferson City,Reading,21.7,22.6,Average
+2401,779,Jefferson City,Science,21.0,22.5,Average
+2402,779,Jefferson City,Writing Subscore,6.9,7.2,Average
+2403,781,Marietta City,Composite,21.0,20.9,Average
+2405,781,Marietta City,Mathematics,20.4,20.0,Average
+2406,781,Marietta City,Reading,21.7,21.6,Average
+2407,781,Marietta City,Science,21.0,20.7,Average
+2408,781,Marietta City,Writing Subscore,6.9,6.7,Average
+2409,7820108,State Charter Schools- Mountain Education Center School,Composite,21.0,,0
+2411,7820108,State Charter Schools- Mountain Education Center School,Mathematics,20.4,,0
+2412,7820108,State Charter Schools- Mountain Education Center School,Reading,21.7,,0
+2413,7820108,State Charter Schools- Mountain Education Center School,Science,21.0,,0
+2414,7820108,State Charter Schools- Mountain Education Center School,Writing Subscore,6.9,,0
+2415,7820119,State Charter Schools- Provost Academy Georgia,Composite,21.0,17.3,Below Average
+2417,7820119,State Charter Schools- Provost Academy Georgia,Mathematics,20.4,18.3,Below Average
+2418,7820119,State Charter Schools- Provost Academy Georgia,Reading,21.7,17.1,Below Average
+2419,7820119,State Charter Schools- Provost Academy Georgia,Science,21.0,17.5,Below Average
+2420,7820119,State Charter Schools- Provost Academy Georgia,Writing Subscore,6.9,,0
+2421,7820412,State Charter Schools- Georgia Connections Academy,Composite,21.0,21.5,Average
+2423,7820412,State Charter Schools- Georgia Connections Academy,Mathematics,20.4,19.9,Average
+2424,7820412,State Charter Schools- Georgia Connections Academy,Reading,21.7,22.5,Average
+2425,7820412,State Charter Schools- Georgia Connections Academy,Science,21.0,21.3,Average
+2426,7820412,State Charter Schools- Georgia Connections Academy,Writing Subscore,6.9,7.6,Average
+2427,7830103,Commission Charter Schools- CCAT School,Composite,21.0,,0
+2429,7830103,Commission Charter Schools- CCAT School,Mathematics,20.4,,0
+2430,7830103,Commission Charter Schools- CCAT School,Reading,21.7,,0
+2431,7830103,Commission Charter Schools- CCAT School,Science,21.0,,0
+2432,7830310,Commission Charter Schools- Fulton Leadership Academy,Composite,21.0,,0
+2434,7830310,Commission Charter Schools- Fulton Leadership Academy,Mathematics,20.4,,0
+2435,7830310,Commission Charter Schools- Fulton Leadership Academy,Reading,21.7,,0
+2436,7830310,Commission Charter Schools- Fulton Leadership Academy,Science,21.0,,0
+2437,7830310,Commission Charter Schools- Fulton Leadership Academy,Writing Subscore,6.9,,0
+2438,784,Pelham City,Composite,21.0,17.0,Below Average
+2440,784,Pelham City,Mathematics,20.4,16.6,Below Average
+2441,784,Pelham City,Reading,21.7,17.5,Below Average
+2442,784,Pelham City,Science,21.0,17.4,Below Average
+2443,784,Pelham City,Writing Subscore,6.9,,0
+2444,785,Rome City,Composite,21.0,20.8,Average
+2446,785,Rome City,Mathematics,20.4,20.7,Average
+2447,785,Rome City,Reading,21.7,21.5,Average
+2448,785,Rome City,Science,21.0,20.9,Average
+2449,785,Rome City,Writing Subscore,6.9,7.1,Average
+2450,786,Social Circle City,Composite,21.0,20.8,Average
+2452,786,Social Circle City,Mathematics,20.4,19.4,Average
+2453,786,Social Circle City,Reading,21.7,22.1,Average
+2454,786,Social Circle City,Science,21.0,21.2,Average
+2455,786,Social Circle City,Writing Subscore,6.9,,0
+2456,789,Thomasville City,Composite,21.0,19.1,Average
+2458,789,Thomasville City,Mathematics,20.4,18.1,Below Average
+2459,789,Thomasville City,Reading,21.7,20.3,Average
+2460,789,Thomasville City,Science,21.0,19.6,Average
+2461,789,Thomasville City,Writing Subscore,6.9,6.7,Average
+2462,791,Trion City,Composite,21.0,21.1,Average
+2464,791,Trion City,Mathematics,20.4,20.0,Average
+2465,791,Trion City,Reading,21.7,22.0,Average
+2466,791,Trion City,Science,21.0,21.0,Average
+2467,791,Trion City,Writing Subscore,6.9,6.1,Average
+2468,792,Valdosta City,Composite,21.0,19.1,Average
+2470,792,Valdosta City,Mathematics,20.4,18.2,Below Average
+2471,792,Valdosta City,Reading,21.7,19.7,Average
+2472,792,Valdosta City,Science,21.0,19.5,Average
+2473,792,Valdosta City,Writing Subscore,6.9,6.5,Average
+2474,793,Vidalia City,Composite,21.0,20.1,Average
+2476,793,Vidalia City,Mathematics,20.4,19.7,Average
+2477,793,Vidalia City,Reading,21.7,20.9,Average
+2478,793,Vidalia City,Science,21.0,19.6,Average
+2479,793,Vidalia City,Writing Subscore,6.9,5.7,Average
+2480,7991893,State Schools- Atlanta Area School for the Deaf,Composite,21.0,13.0,Below Average
+2482,7991893,State Schools- Atlanta Area School for the Deaf,Mathematics,20.4,14.4,Below Average
+2483,7991893,State Schools- Atlanta Area School for the Deaf,Reading,21.7,12.2,Below Average
+2484,7991893,State Schools- Atlanta Area School for the Deaf,Science,21.0,14.6,Below Average
+2485,7991894,State Schools- Georgia Academy for the Blind,Composite,21.0,,0
+2487,7991894,State Schools- Georgia Academy for the Blind,Mathematics,20.4,,0
+2488,7991894,State Schools- Georgia Academy for the Blind,Reading,21.7,,0
+2489,7991894,State Schools- Georgia Academy for the Blind,Science,21.0,,0
+2490,7991895,State Schools- Georgia School for the Deaf,Composite,21.0,,0
+2492,7991895,State Schools- Georgia School for the Deaf,Mathematics,20.4,,0
+2493,7991895,State Schools- Georgia School for the Deaf,Reading,21.7,,0
+2494,7991895,State Schools- Georgia School for the Deaf,Science,21.0,,0
