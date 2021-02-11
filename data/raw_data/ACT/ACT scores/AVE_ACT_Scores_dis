@@ -1,0 +1,188 @@
+,District CD,District Name,Average State Composite,Average District Composite,State Bracket Composite,Average State Mathmatics,Average District Mathamatics,State Bracket Mathamatics,Average State Science,Average District Science,State Bracket Science,Average State Reading,Average District Reading,State Bracket Reading,Average State Writing Subscore,Average District Writing Subscore,State Bracket Writing Subscore
+0,601,Appling County,21.0,20.8,Average,20.4,20.4,Average,21.0,20.1,Average,21.7,22.0,Average,6.9,,0
+1,602,Atkinson County,21.0,,0,20.4,,0,21.0,,0,21.7,,0,6.9,,0
+2,603,Bacon County,21.0,16.6,Below Average,20.4,16.5,Below Average,21.0,16.7,Below Average,21.7,17.1,Below Average,6.9,,0
+3,604,Baker County,21.0,,0,20.4,,0,21.0,,0,21.7,,0,,,
+4,605,Baldwin County,21.0,17.9,Below Average,20.4,17.3,Below Average,21.0,18.2,Below Average,21.7,18.5,Below Average,6.9,6.5,Average
+5,606,Banks County,21.0,20.1,Average,20.4,19.1,Average,21.0,20.1,Average,21.7,20.9,Average,6.9,6.9,Average
+6,607,Barrow County,21.0,19.5,Average,20.4,19.4,Average,21.0,20.0,Average,21.7,20.2,Average,6.9,6.4,Average
+7,608,Bartow County,21.0,20.3,Average,20.4,19.3,Average,21.0,20.5,Average,21.7,21.1,Average,6.9,6.6,Average
+8,609,Ben Hill County,21.0,18.7,Below Average,20.4,18.8,Average,21.0,18.9,Below Average,21.7,18.8,Below Average,6.9,,0
+9,610,Berrien County,21.0,,0,20.4,,0,21.0,,0,21.7,,0,6.9,,0
+10,611,Bibb County,21.0,17.4,Below Average,20.4,17.2,Below Average,21.0,17.9,Below Average,21.7,17.6,Below Average,6.9,6.2,Average
+11,612,Bleckley County,21.0,19.9,Average,20.4,19.5,Average,21.0,20.8,Average,21.7,20.2,Average,6.9,,0
+12,613,Brantley County,21.0,20.8,Average,20.4,19.0,Average,21.0,21.1,Average,21.7,22.1,Average,6.9,6.5,Average
+13,614,Brooks County,21.0,18.1,Below Average,20.4,18.0,Below Average,21.0,18.6,Below Average,21.7,18.9,Below Average,6.9,6.9,Average
+14,615,Bryan County,21.0,21.6,Average,20.4,20.9,Average,21.0,21.7,Average,21.7,22.2,Average,6.9,6.8,Average
+15,616,Bulloch County,21.0,20.6,Average,20.4,19.9,Average,21.0,20.7,Average,21.7,21.3,Average,6.9,6.1,Average
+16,617,Burke County,21.0,17.4,Below Average,20.4,17.7,Below Average,21.0,17.7,Below Average,21.7,17.3,Below Average,6.9,6.2,Average
+17,618,Butts County,21.0,17.4,Below Average,20.4,17.3,Below Average,21.0,18.1,Below Average,21.7,17.8,Below Average,6.9,6.0,Average
+18,619,Calhoun County,21.0,,0,20.4,,0,21.0,,0,21.7,,0,6.9,,0
+19,620,Camden County,21.0,20.8,Average,20.4,20.1,Average,21.0,20.8,Average,21.7,21.7,Average,6.9,6.3,Average
+20,621,Candler County,21.0,20.6,Average,20.4,19.7,Average,21.0,21.0,Average,21.7,21.7,Average,6.9,,0
+21,622,Carroll County,21.0,19.6,Average,20.4,18.8,Average,21.0,19.8,Average,21.7,20.3,Average,6.9,6.4,Average
+22,623,Catoosa County,21.0,20.4,Average,20.4,19.3,Average,21.0,20.7,Average,21.7,21.2,Average,6.9,6.8,Average
+23,624,Charlton County,21.0,18.8,Below Average,20.4,18.6,Average,21.0,19.3,Average,21.7,18.9,Below Average,6.9,,0
+24,625,Savannah-Chatham County,21.0,18.4,Below Average,20.4,18.0,Below Average,21.0,18.4,Below Average,21.7,19.3,Below Average,6.9,6.6,Average
+25,626,Chattahoochee County,21.0,20.0,Average,20.4,19.8,Average,21.0,20.8,Average,21.7,20.2,Average,6.9,,0
+26,627,Chattooga County,21.0,19.2,Average,20.4,18.5,Average,21.0,18.9,Below Average,21.7,20.0,Average,6.9,6.3,Average
+27,628,Cherokee County,21.0,22.9,Average,20.4,22.1,Average,21.0,22.7,Average,21.7,23.7,Average,6.9,7.1,Average
+28,629,Clarke County,21.0,18.8,Below Average,20.4,18.6,Average,21.0,19.1,Average,21.7,19.3,Below Average,6.9,7.1,Average
+29,631,Clayton County,21.0,17.8,Below Average,20.4,17.3,Below Average,21.0,18.2,Below Average,21.7,18.4,Below Average,6.9,6.6,Average
+30,632,Clinch County,21.0,,0,20.4,,0,21.0,,0,21.7,,0,6.9,,0
+31,633,Cobb County,21.0,22.7,Average,20.4,22.0,Average,21.0,22.4,Average,21.7,23.5,Average,6.9,7.2,Average
+32,634,Coffee County,21.0,18.9,Below Average,20.4,18.8,Average,21.0,19.2,Average,21.7,19.4,Below Average,6.9,6.1,Average
+33,635,Colquitt County,21.0,18.2,Below Average,20.4,18.1,Below Average,21.0,19.1,Average,21.7,18.5,Below Average,6.9,5.9,Average
+34,636,Columbia County,21.0,22.8,Average,20.4,22.2,Average,21.0,22.9,Average,21.7,23.6,Average,6.9,6.9,Average
+35,637,Cook County,21.0,17.9,Below Average,20.4,17.3,Below Average,21.0,18.6,Below Average,21.7,18.6,Below Average,6.9,5.9,Average
+36,638,Coweta County,21.0,21.4,Average,20.4,20.5,Average,21.0,21.5,Average,21.7,22.1,Average,6.9,6.7,Average
+37,639,Crawford County,21.0,19.0,Average,20.4,18.0,Below Average,21.0,18.4,Below Average,21.7,20.1,Average,6.9,,0
+38,640,Crisp County,21.0,17.5,Below Average,20.4,16.8,Below Average,21.0,18.0,Below Average,21.7,18.4,Below Average,6.9,,0
+39,641,Dade County,21.0,20.3,Average,20.4,19.4,Average,21.0,20.5,Average,21.7,21.4,Average,6.9,6.8,Average
+40,642,Dawson County,21.0,20.5,Average,20.4,19.9,Average,21.0,20.8,Average,21.7,21.7,Average,6.9,6.2,Average
+41,643,Decatur County,21.0,19.5,Average,20.4,17.8,Below Average,21.0,20.0,Average,21.7,20.5,Average,6.9,6.1,Average
+42,644,DeKalb County,21.0,19.9,Average,20.4,19.1,Average,21.0,19.8,Average,21.7,20.7,Average,6.9,6.8,Average
+43,645,Dodge County,21.0,21.4,Average,20.4,21.1,Average,21.0,21.1,Average,21.7,22.1,Average,6.9,,0
+44,646,Dooly County,21.0,15.5,Below Average,20.4,16.3,Below Average,21.0,15.7,Below Average,21.7,15.7,Below Average,6.9,,0
+45,647,Dougherty County,21.0,17.5,Below Average,20.4,16.9,Below Average,21.0,18.0,Below Average,21.7,18.1,Below Average,6.9,6.1,Average
+46,648,Douglas County,21.0,19.4,Average,20.4,18.7,Average,21.0,19.6,Average,21.7,20.3,Average,6.9,6.7,Average
+47,649,Early County,21.0,18.8,Below Average,20.4,18.4,Average,21.0,19.2,Average,21.7,19.7,Average,6.9,,0
+48,650,Echols County,21.0,19.4,Average,20.4,18.4,Average,21.0,19.7,Average,21.7,20.7,Average,6.9,,0
+49,651,Effingham County,21.0,21.4,Average,20.4,20.5,Average,21.0,21.4,Average,21.7,22.5,Average,6.9,6.9,Average
+50,652,Elbert County,21.0,18.9,Below Average,20.4,18.6,Average,21.0,19.1,Average,21.7,19.7,Average,6.9,,0
+51,653,Emanuel County,21.0,17.9,Below Average,20.4,17.1,Below Average,21.0,18.7,Below Average,21.7,19.2,Below Average,6.9,,0
+52,654,Evans County,21.0,18.8,Below Average,20.4,17.7,Below Average,21.0,19.4,Average,21.7,19.7,Average,6.9,,0
+53,655,Fannin County,21.0,21.1,Average,20.4,20.8,Average,21.0,20.4,Average,21.7,22.0,Average,6.9,,0
+54,656,Fayette County,21.0,23.7,Above Average,20.4,23.0,Above Average,21.0,23.4,Above Average,21.7,24.4,Above Average,6.9,7.1,Average
+55,657,Floyd County,21.0,21.0,Average,20.4,20.1,Average,21.0,21.3,Average,21.7,22.0,Average,6.9,7.1,Average
+56,658,Forsyth County,21.0,24.6,Above Average,20.4,23.8,Above Average,21.0,24.2,Above Average,21.7,25.2,Above Average,6.9,7.4,Average
+57,659,Franklin County,21.0,20.2,Average,20.4,19.9,Average,21.0,19.9,Average,21.7,21.7,Average,6.9,,0
+58,660,Fulton County,21.0,23.5,Above Average,20.4,22.9,Above Average,21.0,23.1,Above Average,21.7,24.1,Above Average,6.9,7.2,Average
+59,661,Gilmer County,21.0,21.8,Average,20.4,20.8,Average,21.0,21.7,Average,21.7,23.1,Average,6.9,6.8,Average
+60,662,Glascock County,21.0,,0,20.4,,0,21.0,,0,21.7,,0,,,
+61,663,Glynn County,21.0,20.6,Average,20.4,19.8,Average,21.0,20.5,Average,21.7,21.4,Average,6.9,6.6,Average
+62,664,Gordon County,21.0,20.0,Average,20.4,19.9,Average,21.0,20.2,Average,21.7,20.7,Average,6.9,6.8,Average
+63,665,Grady County,21.0,17.3,Below Average,20.4,16.8,Below Average,21.0,18.0,Below Average,21.7,17.7,Below Average,6.9,6.5,Average
+64,666,Greene County,21.0,16.2,Below Average,20.4,16.1,Below Average,21.0,16.7,Below Average,21.7,16.3,Below Average,6.9,6.1,Average
+65,667,Gwinnett County,21.0,22.6,Average,20.4,22.4,Average,21.0,22.5,Average,21.7,23.0,Average,6.9,7.5,Average
+66,668,Habersham County,21.0,21.2,Average,20.4,20.5,Average,21.0,20.9,Average,21.7,22.2,Average,6.9,7.6,Average
+67,669,Hall County,21.0,20.9,Average,20.4,20.5,Average,21.0,20.9,Average,21.7,21.5,Average,6.9,6.7,Average
+68,670,Hancock County,21.0,,0,20.4,,0,21.0,,0,21.7,,0,,,
+69,671,Haralson County,21.0,21.4,Average,20.4,19.6,Average,21.0,21.8,Average,21.7,22.7,Average,6.9,,0
+70,672,Harris County,21.0,20.3,Average,20.4,19.4,Average,21.0,20.4,Average,21.7,21.3,Average,6.9,6.5,Average
+71,673,Hart County,21.0,19.5,Average,20.4,18.5,Average,21.0,19.9,Average,21.7,20.5,Average,6.9,5.9,Average
+72,674,Heard County,21.0,19.0,Average,20.4,18.5,Average,21.0,19.6,Average,21.7,19.5,Below Average,6.9,,0
+73,675,Henry County,21.0,19.4,Average,20.4,19.0,Average,21.0,19.6,Average,21.7,20.1,Average,6.9,6.4,Average
+74,676,Houston County,21.0,20.6,Average,20.4,20.1,Average,21.0,21.0,Average,21.7,21.4,Average,6.9,6.7,Average
+75,677,Irwin County,21.0,19.9,Average,20.4,19.3,Average,21.0,19.8,Average,21.7,20.8,Average,6.9,6.9,Average
+76,678,Jackson County,21.0,21.2,Average,20.4,20.7,Average,21.0,21.6,Average,21.7,21.7,Average,6.9,7.0,Average
+77,679,Jasper County,21.0,18.8,Below Average,20.4,18.6,Average,21.0,19.5,Average,21.7,19.1,Below Average,6.9,,0
+78,680,Jeff Davis County,21.0,17.7,Below Average,20.4,16.8,Below Average,21.0,17.0,Below Average,21.7,18.8,Below Average,6.9,,0
+79,681,Jefferson County,21.0,16.6,Below Average,20.4,16.4,Below Average,21.0,16.3,Below Average,21.7,17.3,Below Average,6.9,,0
+80,682,Jenkins County,21.0,17.6,Below Average,20.4,17.3,Below Average,21.0,17.4,Below Average,21.7,18.3,Below Average,6.9,,0
+81,683,Johnson County,21.0,17.6,Below Average,20.4,18.2,Below Average,21.0,18.4,Below Average,21.7,17.3,Below Average,6.9,,0
+82,684,Jones County,21.0,19.3,Average,20.4,19.4,Average,21.0,19.4,Average,21.7,19.6,Below Average,6.9,6.4,Average
+83,685,Lamar County,21.0,18.4,Below Average,20.4,18.2,Below Average,21.0,18.9,Below Average,21.7,19.0,Below Average,6.9,,0
+84,686,Lanier County,21.0,17.8,Below Average,20.4,17.5,Below Average,21.0,17.9,Below Average,21.7,18.3,Below Average,6.9,,0
+85,687,Laurens County,21.0,18.6,Below Average,20.4,17.9,Below Average,21.0,18.8,Below Average,21.7,19.7,Average,6.9,5.8,Average
+86,688,Lee County,21.0,21.3,Average,20.4,20.8,Average,21.0,21.1,Average,21.7,22.2,Average,6.9,6.7,Average
+87,689,Liberty County,21.0,18.9,Below Average,20.4,18.0,Below Average,21.0,19.4,Average,21.7,19.9,Average,6.9,5.9,Average
+88,690,Lincoln County,21.0,19.4,Average,20.4,19.2,Average,21.0,20.0,Average,21.7,19.8,Average,6.9,,0
+89,691,Long County,21.0,18.9,Below Average,20.4,18.4,Average,21.0,19.3,Average,21.7,19.9,Average,6.9,5.8,Average
+90,692,Lowndes County,21.0,21.5,Average,20.4,20.5,Average,21.0,21.5,Average,21.7,22.4,Average,6.9,6.6,Average
+91,693,Lumpkin County,21.0,21.5,Average,20.4,20.7,Average,21.0,21.7,Average,21.7,22.4,Average,6.9,6.3,Average
+92,694,Macon County,21.0,15.6,Below Average,20.4,16.0,Below Average,21.0,16.0,Below Average,21.7,16.1,Below Average,6.9,,0
+93,695,Madison County,21.0,21.1,Average,20.4,20.5,Average,21.0,21.5,Average,21.7,22.6,Average,6.9,,0
+94,696,Marion County,21.0,16.8,Below Average,20.4,16.1,Below Average,21.0,17.1,Below Average,21.7,17.3,Below Average,6.9,,0
+95,697,McDuffie County,21.0,18.4,Below Average,20.4,17.9,Below Average,21.0,18.7,Below Average,21.7,19.2,Below Average,6.9,5.5,Average
+96,698,McIntosh County,21.0,19.6,Average,20.4,18.3,Below Average,21.0,20.1,Average,21.7,20.7,Average,6.9,,0
+97,699,Meriwether County,21.0,16.8,Below Average,20.4,16.6,Below Average,21.0,17.1,Below Average,21.7,18.0,Below Average,6.9,,0
+98,700,Miller County,21.0,18.4,Below Average,20.4,17.1,Below Average,21.0,18.5,Below Average,21.7,20.1,Average,6.9,,0
+99,701,Mitchell County,21.0,17.4,Below Average,20.4,17.4,Below Average,21.0,17.5,Below Average,21.7,18.3,Below Average,6.9,,0
+100,702,Monroe County,21.0,20.8,Average,20.4,20.2,Average,21.0,20.8,Average,21.7,22.0,Average,6.9,6.6,Average
+101,703,Montgomery County,21.0,,0,20.4,,0,21.0,,0,21.7,,0,6.9,,0
+102,704,Morgan County,21.0,20.8,Average,20.4,20.3,Average,21.0,20.5,Average,21.7,21.3,Average,6.9,6.7,Average
+103,705,Murray County,21.0,18.7,Below Average,20.4,17.9,Below Average,21.0,19.0,Average,21.7,19.8,Average,6.9,6.8,Average
+104,706,Muscogee County,21.0,19.6,Average,20.4,19.1,Average,21.0,19.6,Average,21.7,20.3,Average,6.9,6.5,Average
+105,707,Newton County,21.0,19.3,Average,20.4,18.3,Below Average,21.0,19.7,Average,21.7,20.1,Average,6.9,6.6,Average
+106,708,Oconee County,21.0,24.0,Above Average,20.4,23.2,Above Average,21.0,23.6,Above Average,21.7,24.8,Above Average,6.9,7.5,Average
+107,709,Oglethorpe County,21.0,21.0,Average,20.4,20.6,Average,21.0,20.9,Average,21.7,21.5,Average,6.9,7.4,Average
+108,710,Paulding County,21.0,20.5,Average,20.4,19.8,Average,21.0,20.8,Average,21.7,21.3,Average,6.9,6.7,Average
+109,711,Peach County,21.0,18.1,Below Average,20.4,17.7,Below Average,21.0,18.8,Below Average,21.7,18.8,Below Average,6.9,6.5,Average
+110,712,Pickens County,21.0,22.1,Average,20.4,21.6,Average,21.0,21.9,Average,21.7,23.0,Average,6.9,6.6,Average
+111,713,Pierce County,21.0,20.4,Average,20.4,20.8,Average,21.0,20.8,Average,21.7,20.8,Average,6.9,6.9,Average
+112,714,Pike County,21.0,21.2,Average,20.4,20.3,Average,21.0,21.3,Average,21.7,22.2,Average,6.9,6.7,Average
+113,715,Polk County,21.0,19.2,Average,20.4,18.5,Average,21.0,19.1,Average,21.7,20.7,Average,6.9,5.8,Average
+114,716,Pulaski County,21.0,19.4,Average,20.4,18.0,Below Average,21.0,19.2,Average,21.7,20.9,Average,6.9,,0
+115,717,Putnam County,21.0,18.6,Below Average,20.4,17.5,Below Average,21.0,19.4,Average,21.7,19.5,Below Average,6.9,,0
+116,718,Quitman County,21.0,16.3,Below Average,20.4,15.4,Below Average,21.0,16.0,Below Average,21.7,16.3,Below Average,6.9,,0
+117,719,Rabun County,21.0,20.2,Average,20.4,20.2,Average,21.0,21.0,Average,21.7,20.7,Average,6.9,6.7,Average
+118,720,Randolph County,21.0,15.8,Below Average,20.4,15.6,Below Average,21.0,15.5,Below Average,21.7,17.3,Below Average,6.9,,0
+119,721,Richmond County,21.0,18.4,Below Average,20.4,18.1,Below Average,21.0,18.7,Below Average,21.7,19.1,Below Average,6.9,6.1,Average
+120,722,Rockdale County,21.0,18.7,Below Average,20.4,18.0,Below Average,21.0,18.8,Below Average,21.7,19.3,Below Average,6.9,6.4,Average
+121,723,Schley County,21.0,19.4,Average,20.4,18.3,Below Average,21.0,19.6,Average,21.7,20.6,Average,6.9,5.9,Average
+122,724,Screven County,21.0,18.9,Below Average,20.4,18.8,Average,21.0,19.3,Average,21.7,19.5,Below Average,6.9,6.2,Average
+123,725,Seminole County,21.0,18.1,Below Average,20.4,16.9,Below Average,21.0,17.8,Below Average,21.7,19.5,Below Average,6.9,,0
+124,726,Griffin-Spalding County,21.0,18.5,Below Average,20.4,17.9,Below Average,21.0,19.0,Average,21.7,19.2,Below Average,6.9,5.9,Average
+125,727,Stephens County,21.0,20.2,Average,20.4,20.0,Average,21.0,19.9,Average,21.7,20.8,Average,6.9,6.0,Average
+126,728,Stewart County,21.0,15.1,Below Average,20.4,16.4,Below Average,21.0,15.9,Below Average,21.7,14.4,Below Average,6.9,,0
+127,729,Sumter County,21.0,17.1,Below Average,20.4,16.5,Below Average,21.0,17.8,Below Average,21.7,18.2,Below Average,6.9,6.6,Average
+128,730,Talbot County,21.0,,0,20.4,,0,21.0,,0,21.7,,0,,,
+129,731,Taliaferro County,21.0,,0,20.4,,0,21.0,,0,21.7,,0,6.9,,0
+130,732,Tattnall County,21.0,19.7,Average,20.4,20.0,Average,21.0,18.9,Below Average,21.7,19.7,Average,6.9,,0
+131,733,Taylor County,21.0,19.1,Average,20.4,17.6,Below Average,21.0,19.5,Average,21.7,20.4,Average,6.9,,0
+132,734,Telfair County,21.0,,0,20.4,,0,21.0,,0,21.7,,0,6.9,,0
+133,735,Terrell County,21.0,16.0,Below Average,20.4,16.9,Below Average,21.0,16.1,Below Average,21.7,16.1,Below Average,6.9,5.8,Average
+134,736,Thomas County,21.0,18.8,Below Average,20.4,17.5,Below Average,21.0,19.2,Average,21.7,19.8,Average,6.9,5.8,Average
+135,737,Tift County,21.0,19.6,Average,20.4,18.5,Average,21.0,19.9,Average,21.7,21.0,Average,6.9,6.5,Average
+136,738,Toombs County,21.0,17.9,Below Average,20.4,16.8,Below Average,21.0,17.8,Below Average,21.7,20.6,Average,,,
+137,739,Towns County,21.0,21.0,Average,20.4,19.0,Average,21.0,20.7,Average,21.7,22.9,Average,6.9,,0
+138,740,Treutlen County,21.0,,0,20.4,,0,21.0,,0,21.7,,0,,,
+139,741,Troup County,21.0,19.7,Average,20.4,19.5,Average,21.0,19.9,Average,21.7,20.1,Average,6.9,6.3,Average
+140,742,Turner County,21.0,16.7,Below Average,20.4,16.4,Below Average,21.0,16.9,Below Average,21.7,17.2,Below Average,6.9,6.1,Average
+141,743,Twiggs County,21.0,15.8,Below Average,20.4,15.9,Below Average,21.0,16.6,Below Average,21.7,15.5,Below Average,6.9,,0
+142,744,Union County,21.0,20.6,Average,20.4,19.6,Average,21.0,20.4,Average,21.7,21.9,Average,6.9,6.3,Average
+143,745,Thomaston-Upson County,21.0,18.5,Below Average,20.4,18.0,Below Average,21.0,19.0,Average,21.7,19.6,Below Average,6.9,6.7,Average
+144,746,Walker County,21.0,19.7,Average,20.4,18.9,Average,21.0,19.8,Average,21.7,20.5,Average,6.9,6.2,Average
+145,747,Walton County,21.0,20.3,Average,20.4,19.7,Average,21.0,20.5,Average,21.7,20.9,Average,6.9,6.7,Average
+146,748,Ware County,21.0,19.8,Average,20.4,19.0,Average,21.0,19.6,Average,21.7,20.9,Average,6.9,6.7,Average
+147,749,Warren County,21.0,18.1,Below Average,20.4,18.3,Below Average,21.0,18.6,Below Average,21.7,18.6,Below Average,6.9,,0
+148,750,Washington County,21.0,18.7,Below Average,20.4,18.3,Below Average,21.0,18.3,Below Average,21.7,19.9,Average,6.9,5.8,Average
+149,751,Wayne County,21.0,17.6,Below Average,20.4,17.5,Below Average,21.0,17.7,Below Average,21.7,18.3,Below Average,6.9,5.2,Average
+150,752,Webster County,21.0,17.5,Below Average,20.4,17.4,Below Average,21.0,16.6,Below Average,21.7,19.1,Below Average,,,
+151,753,Wheeler County,21.0,,0,20.4,,0,21.0,,0,21.7,,0,6.9,,0
+152,754,White County,21.0,21.2,Average,20.4,20.4,Average,21.0,20.8,Average,21.7,22.1,Average,6.9,7.6,Average
+153,755,Whitfield County,21.0,19.7,Average,20.4,19.3,Average,21.0,19.9,Average,21.7,20.3,Average,6.9,6.6,Average
+154,756,Wilcox County,21.0,17.9,Below Average,20.4,17.0,Below Average,21.0,18.4,Below Average,21.7,19.3,Below Average,6.9,,0
+155,757,Wilkes County,21.0,16.7,Below Average,20.4,16.9,Below Average,21.0,17.7,Below Average,21.7,16.4,Below Average,6.9,,0
+156,758,Wilkinson County,21.0,17.0,Below Average,20.4,16.6,Below Average,21.0,17.4,Below Average,21.7,17.0,Below Average,6.9,,0
+157,759,Worth County,21.0,18.4,Below Average,20.4,17.7,Below Average,21.0,19.2,Average,21.7,19.1,Below Average,6.9,,0
+158,761,Atlanta Public Schools,21.0,18.8,Below Average,20.4,18.4,Average,21.0,18.7,Below Average,21.7,19.4,Below Average,6.9,6.3,Average
+159,763,Bremen City,21.0,21.6,Average,20.4,20.5,Average,21.0,21.3,Average,21.7,22.2,Average,6.9,6.6,Average
+160,764,Buford City,21.0,23.2,Above Average,20.4,23.5,Above Average,21.0,23.3,Above Average,21.7,23.2,Average,6.9,7.2,Average
+161,765,Calhoun City,21.0,20.6,Average,20.4,19.9,Average,21.0,21.0,Average,21.7,21.5,Average,6.9,6.3,Average
+162,766,Carrollton City,21.0,20.7,Average,20.4,20.1,Average,21.0,20.4,Average,21.7,21.3,Average,6.9,6.6,Average
+163,767,Cartersville City,21.0,20.8,Average,20.4,20.4,Average,21.0,20.8,Average,21.7,21.2,Average,6.9,6.5,Average
+164,769,Chickamauga City,21.0,20.5,Average,20.4,19.1,Average,21.0,20.4,Average,21.7,21.7,Average,6.9,6.5,Average
+165,771,Commerce City,21.0,20.7,Average,20.4,19.1,Average,21.0,21.0,Average,21.7,22.2,Average,6.9,,0
+166,772,Dalton Public Schools,21.0,21.5,Average,20.4,20.7,Average,21.0,21.1,Average,21.7,22.8,Average,6.9,7.4,Average
+167,773,Decatur City,21.0,25.1,Above Average,20.4,23.4,Above Average,21.0,24.7,Above Average,21.7,26.7,Above Average,6.9,7.9,Average
+168,774,Dublin City,21.0,16.8,Below Average,20.4,16.3,Below Average,21.0,16.8,Below Average,21.7,17.7,Below Average,6.9,5.1,Average
+169,776,Gainesville City,21.0,19.8,Average,20.4,19.9,Average,21.0,19.3,Average,21.7,19.9,Average,6.9,6.5,Average
+170,779,Jefferson City,21.0,22.1,Average,20.4,20.9,Average,21.0,22.5,Average,21.7,22.6,Average,6.9,7.2,Average
+171,781,Marietta City,21.0,20.9,Average,20.4,20.0,Average,21.0,20.7,Average,21.7,21.6,Average,6.9,6.7,Average
+172,7820108,State Charter Schools- Mountain Education Center School,21.0,,0,20.4,,0,21.0,,0,21.7,,0,6.9,,0
+173,7820119,State Charter Schools- Provost Academy Georgia,21.0,17.3,Below Average,20.4,18.3,Below Average,21.0,17.5,Below Average,21.7,17.1,Below Average,6.9,,0
+174,7820412,State Charter Schools- Georgia Connections Academy,21.0,21.5,Average,20.4,19.9,Average,21.0,21.3,Average,21.7,22.5,Average,6.9,7.6,Average
+175,7830103,Commission Charter Schools- CCAT School,21.0,,0,20.4,,0,21.0,,0,21.7,,0,,,
+176,7830310,Commission Charter Schools- Fulton Leadership Academy,21.0,,0,20.4,,0,21.0,,0,21.7,,0,6.9,,0
+177,784,Pelham City,21.0,17.0,Below Average,20.4,16.6,Below Average,21.0,17.4,Below Average,21.7,17.5,Below Average,6.9,,0
+178,785,Rome City,21.0,20.8,Average,20.4,20.7,Average,21.0,20.9,Average,21.7,21.5,Average,6.9,7.1,Average
+179,786,Social Circle City,21.0,20.8,Average,20.4,19.4,Average,21.0,21.2,Average,21.7,22.1,Average,6.9,,0
+180,789,Thomasville City,21.0,19.1,Average,20.4,18.1,Below Average,21.0,19.6,Average,21.7,20.3,Average,6.9,6.7,Average
+181,791,Trion City,21.0,21.1,Average,20.4,20.0,Average,21.0,21.0,Average,21.7,22.0,Average,6.9,6.1,Average
+182,792,Valdosta City,21.0,19.1,Average,20.4,18.2,Below Average,21.0,19.5,Average,21.7,19.7,Average,6.9,6.5,Average
+183,793,Vidalia City,21.0,20.1,Average,20.4,19.7,Average,21.0,19.6,Average,21.7,20.9,Average,6.9,5.7,Average
+184,7991893,State Schools- Atlanta Area School for the Deaf,21.0,13.0,Below Average,20.4,14.4,Below Average,21.0,14.6,Below Average,21.7,12.2,Below Average,,,
+185,7991894,State Schools- Georgia Academy for the Blind,21.0,,0,20.4,,0,21.0,,0,21.7,,0,,,
+186,7991895,State Schools- Georgia School for the Deaf,21.0,,0,20.4,,0,21.0,,0,21.7,,0,,,
