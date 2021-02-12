@@ -1,0 +1,425 @@
+,scode,School Dist Name,Test Component,State Avg Score,Dist Avg Score,Test Score Bracket
+0,601,Appling County,Combined Test Score,1052,1020.0,Average
+1,602,Atkinson County,Combined Test Score,1052,994.0,Average
+2,603,Bacon County,Combined Test Score,1052,972.0,Below Average
+3,604,Baker County,Combined Test Score,1052,900.0,Below Average
+4,605,Baldwin County,Combined Test Score,1052,944.0,Below Average
+5,606,Banks County,Combined Test Score,1052,1021.0,Average
+6,607,Barrow County,Combined Test Score,1052,1036.0,Average
+7,607,Barrow County,Combined Test Score,1052,1036.0,Average
+8,608,Bartow County,Combined Test Score,1052,1043.0,Average
+9,608,Bartow County,Combined Test Score,1052,1043.0,Average
+10,608,Bartow County,Combined Test Score,1052,1043.0,Average
+11,609,Ben Hill County,Combined Test Score,1052,960.0,Below Average
+12,610,Berrien County,Combined Test Score,1052,1016.0,Average
+13,610,Berrien County,Combined Test Score,1052,1016.0,Average
+14,611,Bibb County,Combined Test Score,1052,913.0,Below Average
+15,611,Bibb County,Combined Test Score,1052,913.0,Below Average
+16,611,Bibb County,Combined Test Score,1052,913.0,Below Average
+17,611,Bibb County,Combined Test Score,1052,913.0,Below Average
+18,611,Bibb County,Combined Test Score,1052,913.0,Below Average
+19,611,Bibb County,Combined Test Score,1052,913.0,Below Average
+20,612,Bleckley County,Combined Test Score,1052,1109.0,Average
+21,613,Brantley County,Combined Test Score,1052,1025.0,Average
+22,614,Brooks County,Combined Test Score,1052,979.0,Below Average
+23,615,Bryan County,Combined Test Score,1052,1084.0,Average
+24,615,Bryan County,Combined Test Score,1052,1084.0,Average
+25,616,Bulloch County,Combined Test Score,1052,1047.0,Average
+26,616,Bulloch County,Combined Test Score,1052,1047.0,Average
+27,616,Bulloch County,Combined Test Score,1052,1047.0,Average
+28,617,Burke County,Combined Test Score,1052,973.0,Below Average
+29,618,Butts County,Combined Test Score,1052,991.0,Average
+30,619,Calhoun County,Combined Test Score,1052,907.0,Below Average
+31,620,Camden County,Combined Test Score,1052,1087.0,Average
+32,621,Candler County,Combined Test Score,1052,1033.0,Average
+33,622,Carroll County,Combined Test Score,1052,1021.0,Average
+34,622,Carroll County,Combined Test Score,1052,1021.0,Average
+35,622,Carroll County,Combined Test Score,1052,1021.0,Average
+36,622,Carroll County,Combined Test Score,1052,1021.0,Average
+37,622,Carroll County,Combined Test Score,1052,1021.0,Average
+38,623,Catoosa County,Combined Test Score,1052,1156.0,Above Average
+39,623,Catoosa County,Combined Test Score,1052,1156.0,Above Average
+40,623,Catoosa County,Combined Test Score,1052,1156.0,Above Average
+41,624,Charlton County,Combined Test Score,1052,955.0,Below Average
+42,625,Savannah-Chatham County,Combined Test Score,1052,979.0,Below Average
+43,625,Savannah-Chatham County,Combined Test Score,1052,979.0,Below Average
+44,625,Savannah-Chatham County,Combined Test Score,1052,979.0,Below Average
+45,625,Savannah-Chatham County,Combined Test Score,1052,979.0,Below Average
+46,625,Savannah-Chatham County,Combined Test Score,1052,979.0,Below Average
+47,625,Savannah-Chatham County,Combined Test Score,1052,979.0,Below Average
+48,625,Savannah-Chatham County,Combined Test Score,1052,979.0,Below Average
+49,625,Savannah-Chatham County,Combined Test Score,1052,979.0,Below Average
+50,625,Savannah-Chatham County,Combined Test Score,1052,979.0,Below Average
+51,625,Savannah-Chatham County,Combined Test Score,1052,979.0,Below Average
+52,625,Savannah-Chatham County,Combined Test Score,1052,979.0,Below Average
+53,626,Chattahoochee County,Combined Test Score,1052,930.0,Below Average
+54,627,Chattooga County,Combined Test Score,1052,1009.0,Average
+55,628,Cherokee County,Combined Test Score,1052,1121.0,Above Average
+56,628,Cherokee County,Combined Test Score,1052,1121.0,Above Average
+57,628,Cherokee County,Combined Test Score,1052,1121.0,Above Average
+58,628,Cherokee County,Combined Test Score,1052,1121.0,Above Average
+59,628,Cherokee County,Combined Test Score,1052,1121.0,Above Average
+60,628,Cherokee County,Combined Test Score,1052,1121.0,Above Average
+61,628,Cherokee County,Combined Test Score,1052,1121.0,Above Average
+62,628,Cherokee County,Combined Test Score,1052,1121.0,Above Average
+63,629,Clarke County,Combined Test Score,1052,980.0,Below Average
+64,629,Clarke County,Combined Test Score,1052,980.0,Below Average
+65,629,Clarke County,Combined Test Score,1052,980.0,Below Average
+66,631,Clayton County,Combined Test Score,1052,950.0,Below Average
+67,631,Clayton County,Combined Test Score,1052,950.0,Below Average
+68,631,Clayton County,Combined Test Score,1052,950.0,Below Average
+69,631,Clayton County,Combined Test Score,1052,950.0,Below Average
+70,631,Clayton County,Combined Test Score,1052,950.0,Below Average
+71,631,Clayton County,Combined Test Score,1052,950.0,Below Average
+72,631,Clayton County,Combined Test Score,1052,950.0,Below Average
+73,631,Clayton County,Combined Test Score,1052,950.0,Below Average
+74,631,Clayton County,Combined Test Score,1052,950.0,Below Average
+75,631,Clayton County,Combined Test Score,1052,950.0,Below Average
+76,631,Clayton County,Combined Test Score,1052,950.0,Below Average
+77,631,Clayton County,Combined Test Score,1052,950.0,Below Average
+78,631,Clayton County,Combined Test Score,1052,950.0,Below Average
+79,632,Clinch County,Combined Test Score,1052,990.0,Average
+80,633,Cobb County,Combined Test Score,1052,1112.0,Average
+81,633,Cobb County,Combined Test Score,1052,1112.0,Average
+82,633,Cobb County,Combined Test Score,1052,1112.0,Average
+83,633,Cobb County,Combined Test Score,1052,1112.0,Average
+84,633,Cobb County,Combined Test Score,1052,1112.0,Average
+85,633,Cobb County,Combined Test Score,1052,1112.0,Average
+86,633,Cobb County,Combined Test Score,1052,1112.0,Average
+87,633,Cobb County,Combined Test Score,1052,1112.0,Average
+88,633,Cobb County,Combined Test Score,1052,1112.0,Average
+89,633,Cobb County,Combined Test Score,1052,1112.0,Average
+90,633,Cobb County,Combined Test Score,1052,1112.0,Average
+91,633,Cobb County,Combined Test Score,1052,1112.0,Average
+92,633,Cobb County,Combined Test Score,1052,1112.0,Average
+93,633,Cobb County,Combined Test Score,1052,1112.0,Average
+94,633,Cobb County,Combined Test Score,1052,1112.0,Average
+95,633,Cobb County,Combined Test Score,1052,1112.0,Average
+96,633,Cobb County,Combined Test Score,1052,1112.0,Average
+97,634,Coffee County,Combined Test Score,1052,981.0,Below Average
+98,634,Coffee County,Combined Test Score,1052,981.0,Below Average
+99,634,Coffee County,Combined Test Score,1052,981.0,Below Average
+100,635,Colquitt County,Combined Test Score,1052,1028.0,Average
+101,636,Columbia County,Combined Test Score,1052,1106.0,Average
+102,636,Columbia County,Combined Test Score,1052,1106.0,Average
+103,636,Columbia County,Combined Test Score,1052,1106.0,Average
+104,636,Columbia County,Combined Test Score,1052,1106.0,Average
+105,636,Columbia County,Combined Test Score,1052,1106.0,Average
+106,637,Cook County,Combined Test Score,1052,951.0,Below Average
+107,638,Coweta County,Combined Test Score,1052,1092.0,Average
+108,638,Coweta County,Combined Test Score,1052,1092.0,Average
+109,638,Coweta County,Combined Test Score,1052,1092.0,Average
+110,639,Crawford County,Combined Test Score,1052,1014.0,Average
+111,640,Crisp County,Combined Test Score,1052,983.0,Below Average
+112,641,Dade County,Combined Test Score,1052,1080.0,Average
+113,642,Dawson County,Combined Test Score,1052,1045.0,Average
+114,643,Decatur County,Combined Test Score,1052,973.0,Below Average
+115,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+116,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+117,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+118,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+119,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+120,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+121,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+122,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+123,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+124,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+125,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+126,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+127,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+128,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+129,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+130,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+131,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+132,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+133,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+134,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+135,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+136,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+137,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+138,644,DeKalb County,Combined Test Score,1052,1004.0,Average
+139,645,Dodge County,Combined Test Score,1052,1044.0,Average
+140,646,Dooly County,Combined Test Score,1052,965.0,Below Average
+141,647,Dougherty County,Combined Test Score,1052,942.0,Below Average
+142,647,Dougherty County,Combined Test Score,1052,942.0,Below Average
+143,647,Dougherty County,Combined Test Score,1052,942.0,Below Average
+144,647,Dougherty County,Combined Test Score,1052,942.0,Below Average
+145,648,Douglas County,Combined Test Score,1052,1004.0,Average
+146,648,Douglas County,Combined Test Score,1052,1004.0,Average
+147,648,Douglas County,Combined Test Score,1052,1004.0,Average
+148,648,Douglas County,Combined Test Score,1052,1004.0,Average
+149,648,Douglas County,Combined Test Score,1052,1004.0,Average
+150,649,Early County,Combined Test Score,1052,940.0,Below Average
+151,650,Echols County,Combined Test Score,1052,1040.0,Average
+152,651,Effingham County,Combined Test Score,1052,1090.0,Average
+153,651,Effingham County,Combined Test Score,1052,1090.0,Average
+154,652,Elbert County,Combined Test Score,1052,984.0,Below Average
+155,653,Emanuel County,Combined Test Score,1052,946.0,Below Average
+156,653,Emanuel County,Combined Test Score,1052,946.0,Below Average
+157,654,Evans County,Combined Test Score,1052,963.0,Below Average
+158,655,Fannin County,Combined Test Score,1052,1070.0,Average
+159,656,Fayette County,Combined Test Score,1052,1150.0,Above Average
+160,656,Fayette County,Combined Test Score,1052,1150.0,Above Average
+161,656,Fayette County,Combined Test Score,1052,1150.0,Above Average
+162,656,Fayette County,Combined Test Score,1052,1150.0,Above Average
+163,656,Fayette County,Combined Test Score,1052,1150.0,Above Average
+164,657,Floyd County,Combined Test Score,1052,1092.0,Average
+165,657,Floyd County,Combined Test Score,1052,1092.0,Average
+166,657,Floyd County,Combined Test Score,1052,1092.0,Average
+167,657,Floyd County,Combined Test Score,1052,1092.0,Average
+168,658,Forsyth County,Combined Test Score,1052,1170.0,Above Average
+169,658,Forsyth County,Combined Test Score,1052,1170.0,Above Average
+170,658,Forsyth County,Combined Test Score,1052,1170.0,Above Average
+171,658,Forsyth County,Combined Test Score,1052,1170.0,Above Average
+172,658,Forsyth County,Combined Test Score,1052,1170.0,Above Average
+173,658,Forsyth County,Combined Test Score,1052,1170.0,Above Average
+174,658,Forsyth County,Combined Test Score,1052,1170.0,Above Average
+175,659,Franklin County,Combined Test Score,1052,1036.0,Average
+176,660,Fulton County,Combined Test Score,1052,1090.0,Average
+177,660,Fulton County,Combined Test Score,1052,1090.0,Average
+178,660,Fulton County,Combined Test Score,1052,1090.0,Average
+179,660,Fulton County,Combined Test Score,1052,1090.0,Average
+180,660,Fulton County,Combined Test Score,1052,1090.0,Average
+181,660,Fulton County,Combined Test Score,1052,1090.0,Average
+182,660,Fulton County,Combined Test Score,1052,1090.0,Average
+183,660,Fulton County,Combined Test Score,1052,1090.0,Average
+184,660,Fulton County,Combined Test Score,1052,1090.0,Average
+185,660,Fulton County,Combined Test Score,1052,1090.0,Average
+186,660,Fulton County,Combined Test Score,1052,1090.0,Average
+187,660,Fulton County,Combined Test Score,1052,1090.0,Average
+188,660,Fulton County,Combined Test Score,1052,1090.0,Average
+189,660,Fulton County,Combined Test Score,1052,1090.0,Average
+190,660,Fulton County,Combined Test Score,1052,1090.0,Average
+191,660,Fulton County,Combined Test Score,1052,1090.0,Average
+192,660,Fulton County,Combined Test Score,1052,1090.0,Average
+193,660,Fulton County,Combined Test Score,1052,1090.0,Average
+194,660,Fulton County,Combined Test Score,1052,1090.0,Average
+195,661,Gilmer County,Combined Test Score,1052,1041.0,Average
+196,662,Glascock County,Combined Test Score,1052,949.0,Below Average
+197,663,Glynn County,Combined Test Score,1052,1069.0,Average
+198,663,Glynn County,Combined Test Score,1052,1069.0,Average
+199,664,Gordon County,Combined Test Score,1052,1015.0,Average
+200,664,Gordon County,Combined Test Score,1052,1015.0,Average
+201,665,Grady County,Combined Test Score,1052,976.0,Below Average
+202,666,Greene County,Combined Test Score,1052,931.0,Below Average
+203,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+204,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+205,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+206,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+207,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+208,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+209,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+210,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+211,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+212,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+213,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+214,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+215,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+216,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+217,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+218,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+219,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+220,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+221,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+222,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+223,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+224,667,Gwinnett County,Combined Test Score,1052,1103.0,Average
+225,668,Habersham County,Combined Test Score,1052,1034.0,Average
+226,669,Hall County,Combined Test Score,1052,1043.0,Average
+227,669,Hall County,Combined Test Score,1052,1043.0,Average
+228,669,Hall County,Combined Test Score,1052,1043.0,Average
+229,669,Hall County,Combined Test Score,1052,1043.0,Average
+230,669,Hall County,Combined Test Score,1052,1043.0,Average
+231,669,Hall County,Combined Test Score,1052,1043.0,Average
+232,669,Hall County,Combined Test Score,1052,1043.0,Average
+233,670,Hancock County,Combined Test Score,1052,862.0,Below Average
+234,671,Haralson County,Combined Test Score,1052,1010.0,Average
+235,672,Harris County,Combined Test Score,1052,1076.0,Average
+236,673,Hart County,Combined Test Score,1052,996.0,Average
+237,674,Heard County,Combined Test Score,1052,1025.0,Average
+238,675,Henry County,Combined Test Score,1052,1012.0,Average
+239,675,Henry County,Combined Test Score,1052,1012.0,Average
+240,675,Henry County,Combined Test Score,1052,1012.0,Average
+241,675,Henry County,Combined Test Score,1052,1012.0,Average
+242,675,Henry County,Combined Test Score,1052,1012.0,Average
+243,675,Henry County,Combined Test Score,1052,1012.0,Average
+244,675,Henry County,Combined Test Score,1052,1012.0,Average
+245,675,Henry County,Combined Test Score,1052,1012.0,Average
+246,675,Henry County,Combined Test Score,1052,1012.0,Average
+247,675,Henry County,Combined Test Score,1052,1012.0,Average
+248,675,Henry County,Combined Test Score,1052,1012.0,Average
+249,676,Houston County,Combined Test Score,1052,1084.0,Average
+250,676,Houston County,Combined Test Score,1052,1084.0,Average
+251,676,Houston County,Combined Test Score,1052,1084.0,Average
+252,676,Houston County,Combined Test Score,1052,1084.0,Average
+253,676,Houston County,Combined Test Score,1052,1084.0,Average
+254,677,Irwin County,Combined Test Score,1052,1003.0,Average
+255,678,Jackson County,Combined Test Score,1052,1056.0,Average
+256,678,Jackson County,Combined Test Score,1052,1056.0,Average
+257,679,Jasper County,Combined Test Score,1052,995.0,Average
+258,680,Jeff Davis County,Combined Test Score,1052,1010.0,Average
+259,681,Jefferson County,Combined Test Score,1052,957.0,Below Average
+260,682,Jenkins County,Combined Test Score,1052,952.0,Below Average
+261,683,Johnson County,Combined Test Score,1052,951.0,Below Average
+262,684,Jones County,Combined Test Score,1052,1034.0,Average
+263,685,Lamar County,Combined Test Score,1052,996.0,Average
+264,686,Lanier County,Combined Test Score,1052,986.0,Below Average
+265,687,Laurens County,Combined Test Score,1052,995.0,Average
+266,687,Laurens County,Combined Test Score,1052,995.0,Average
+267,688,Lee County,Combined Test Score,1052,1081.0,Average
+268,689,Liberty County,Combined Test Score,1052,1017.0,Average
+269,689,Liberty County,Combined Test Score,1052,1017.0,Average
+270,690,Lincoln County,Combined Test Score,1052,1004.0,Average
+271,691,Long County,Combined Test Score,1052,963.0,Below Average
+272,692,Lowndes County,Combined Test Score,1052,1053.0,Average
+273,693,Lumpkin County,Combined Test Score,1052,1093.0,Average
+274,694,Macon County,Combined Test Score,1052,920.0,Below Average
+275,695,Madison County,Combined Test Score,1052,1048.0,Average
+276,696,Marion County,Combined Test Score,1052,962.0,Below Average
+277,697,McDuffie County,Combined Test Score,1052,994.0,Average
+278,698,McIntosh County,Combined Test Score,1052,1004.0,Average
+279,699,Meriwether County,Combined Test Score,1052,931.0,Below Average
+280,699,Meriwether County,Combined Test Score,1052,931.0,Below Average
+281,700,Miller County,Combined Test Score,1052,947.0,Below Average
+282,701,Mitchell County,Combined Test Score,1052,995.0,Average
+283,701,Mitchell County,Combined Test Score,1052,995.0,Average
+284,702,Monroe County,Combined Test Score,1052,1025.0,Average
+285,703,Montgomery County,Combined Test Score,1052,1002.0,Average
+286,704,Morgan County,Combined Test Score,1052,1045.0,Average
+287,705,Murray County,Combined Test Score,1052,997.0,Average
+288,705,Murray County,Combined Test Score,1052,997.0,Average
+289,705,Murray County,Combined Test Score,1052,997.0,Average
+290,706,Muscogee County,Combined Test Score,1052,1054.0,Average
+291,706,Muscogee County,Combined Test Score,1052,1054.0,Average
+292,706,Muscogee County,Combined Test Score,1052,1054.0,Average
+293,706,Muscogee County,Combined Test Score,1052,1054.0,Average
+294,706,Muscogee County,Combined Test Score,1052,1054.0,Average
+295,706,Muscogee County,Combined Test Score,1052,1054.0,Average
+296,706,Muscogee County,Combined Test Score,1052,1054.0,Average
+297,706,Muscogee County,Combined Test Score,1052,1054.0,Average
+298,706,Muscogee County,Combined Test Score,1052,1054.0,Average
+299,707,Newton County,Combined Test Score,1052,997.0,Average
+300,707,Newton County,Combined Test Score,1052,997.0,Average
+301,707,Newton County,Combined Test Score,1052,997.0,Average
+302,708,Oconee County,Combined Test Score,1052,1168.0,Above Average
+303,708,Oconee County,Combined Test Score,1052,1168.0,Above Average
+304,709,Oglethorpe County,Combined Test Score,1052,1060.0,Average
+305,710,Paulding County,Combined Test Score,1052,1044.0,Average
+306,710,Paulding County,Combined Test Score,1052,1044.0,Average
+307,710,Paulding County,Combined Test Score,1052,1044.0,Average
+308,710,Paulding County,Combined Test Score,1052,1044.0,Average
+309,710,Paulding County,Combined Test Score,1052,1044.0,Average
+310,711,Peach County,Combined Test Score,1052,1000.0,Average
+311,712,Pickens County,Combined Test Score,1052,1057.0,Average
+312,713,Pierce County,Combined Test Score,1052,1053.0,Average
+313,714,Pike County,Combined Test Score,1052,1068.0,Average
+314,715,Polk County,Combined Test Score,1052,1001.0,Average
+315,715,Polk County,Combined Test Score,1052,1001.0,Average
+316,716,Pulaski County,Combined Test Score,1052,1071.0,Average
+317,717,Putnam County,Combined Test Score,1052,1082.0,Average
+318,718,Quitman County,Combined Test Score,1052,881.0,Below Average
+319,719,Rabun County,Combined Test Score,1052,1041.0,Average
+320,720,Randolph County,Combined Test Score,1052,861.0,Below Average
+321,721,Richmond County,Combined Test Score,1052,982.0,Below Average
+322,721,Richmond County,Combined Test Score,1052,982.0,Below Average
+323,721,Richmond County,Combined Test Score,1052,982.0,Below Average
+324,721,Richmond County,Combined Test Score,1052,982.0,Below Average
+325,721,Richmond County,Combined Test Score,1052,982.0,Below Average
+326,721,Richmond County,Combined Test Score,1052,982.0,Below Average
+327,721,Richmond County,Combined Test Score,1052,982.0,Below Average
+328,721,Richmond County,Combined Test Score,1052,982.0,Below Average
+329,721,Richmond County,Combined Test Score,1052,982.0,Below Average
+330,721,Richmond County,Combined Test Score,1052,982.0,Below Average
+331,722,Rockdale County,Combined Test Score,1052,993.0,Average
+332,722,Rockdale County,Combined Test Score,1052,993.0,Average
+333,722,Rockdale County,Combined Test Score,1052,993.0,Average
+334,722,Rockdale County,Combined Test Score,1052,993.0,Average
+335,723,Schley County,Combined Test Score,1052,1020.0,Average
+336,724,Screven County,Combined Test Score,1052,1006.0,Average
+337,725,Seminole County,Combined Test Score,1052,979.0,Below Average
+338,726,Griffin-Spalding County,Combined Test Score,1052,972.0,Below Average
+339,726,Griffin-Spalding County,Combined Test Score,1052,972.0,Below Average
+340,726,Griffin-Spalding County,Combined Test Score,1052,972.0,Below Average
+341,727,Stephens County,Combined Test Score,1052,1045.0,Average
+342,728,Stewart County,Combined Test Score,1052,877.0,Below Average
+343,729,Sumter County,Combined Test Score,1052,910.0,Below Average
+344,730,Talbot County,Combined Test Score,1052,897.0,Below Average
+345,732,Tattnall County,Combined Test Score,1052,1003.0,Average
+346,733,Taylor County,Combined Test Score,1052,983.0,Below Average
+347,734,Telfair County,Combined Test Score,1052,984.0,Below Average
+348,735,Terrell County,Combined Test Score,1052,931.0,Below Average
+349,736,Thomas County,Combined Test Score,1052,1004.0,Average
+350,736,Thomas County,Combined Test Score,1052,1004.0,Average
+351,737,Tift County,Combined Test Score,1052,968.0,Below Average
+352,738,Toombs County,Combined Test Score,1052,923.0,Below Average
+353,739,Towns County,Combined Test Score,1052,1051.0,Average
+354,740,Treutlen County,Combined Test Score,1052,954.0,Below Average
+355,741,Troup County,Combined Test Score,1052,1030.0,Average
+356,741,Troup County,Combined Test Score,1052,1030.0,Average
+357,741,Troup County,Combined Test Score,1052,1030.0,Average
+358,742,Turner County,Combined Test Score,1052,1012.0,Average
+359,743,Twiggs County,Combined Test Score,1052,919.0,Below Average
+360,744,Union County,Combined Test Score,1052,1048.0,Average
+361,745,Thomaston-Upson County,Combined Test Score,1052,987.0,Average
+362,746,Walker County,Combined Test Score,1052,1156.0,Above Average
+363,746,Walker County,Combined Test Score,1052,1156.0,Above Average
+364,747,Walton County,Combined Test Score,1052,1050.0,Average
+365,747,Walton County,Combined Test Score,1052,1050.0,Average
+366,747,Walton County,Combined Test Score,1052,1050.0,Average
+367,748,Ware County,Combined Test Score,1052,1024.0,Average
+368,749,Warren County,Combined Test Score,1052,1000.0,Average
+369,750,Washington County,Combined Test Score,1052,963.0,Below Average
+370,751,Wayne County,Combined Test Score,1052,1021.0,Average
+371,752,Webster County,Combined Test Score,1052,918.0,Below Average
+372,753,Wheeler County,Combined Test Score,1052,933.0,Below Average
+373,754,White County,Combined Test Score,1052,1043.0,Average
+374,755,Whitfield County,Combined Test Score,1052,1025.0,Average
+375,755,Whitfield County,Combined Test Score,1052,1025.0,Average
+376,755,Whitfield County,Combined Test Score,1052,1025.0,Average
+377,755,Whitfield County,Combined Test Score,1052,1025.0,Average
+378,756,Wilcox County,Combined Test Score,1052,1052.0,Average
+379,757,Wilkes County,Combined Test Score,1052,962.0,Below Average
+380,758,Wilkinson County,Combined Test Score,1052,967.0,Below Average
+381,759,Worth County,Combined Test Score,1052,979.0,Below Average
+382,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+383,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+384,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+385,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+386,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+387,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+388,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+389,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+390,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+391,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+392,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+393,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+394,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+395,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+396,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+397,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+398,761,Atlanta Public Schools,Combined Test Score,1052,948.0,Below Average
+399,763,Bremen City,Combined Test Score,1052,1114.0,Average
+400,764,Buford City,Combined Test Score,1052,1131.0,Above Average
+401,765,Calhoun City,Combined Test Score,1052,1046.0,Average
+402,766,Carrollton City,Combined Test Score,1052,1056.0,Average
+403,767,Cartersville City,Combined Test Score,1052,1072.0,Average
+404,769,Chickamauga City,Combined Test Score,1052,1086.0,Average
+405,771,Commerce City,Combined Test Score,1052,1012.0,Average
+406,772,Dalton Public Schools,Combined Test Score,1052,1017.0,Average
+407,772,Dalton Public Schools,Combined Test Score,1052,1017.0,Average
+408,773,Decatur City,Combined Test Score,1052,1162.0,Above Average
+409,774,Dublin City,Combined Test Score,1052,929.0,Below Average
+410,776,Gainesville City,Combined Test Score,1052,1013.0,Average
+411,779,Jefferson City,Combined Test Score,1052,1123.0,Above Average
+412,781,Marietta City,Combined Test Score,1052,1074.0,Average
+413,7820119,State Charter Schools- Provost Academy Georgia,Combined Test Score,1052,895.0,Below Average
+414,7820412,State Charter Schools- Georgia Connections Academy,Combined Test Score,1052,1071.0,Average
+415,7820613,State Charter Schools- Foothills Charter High School (Madison Campus),Combined Test Score,1052,958.0,Below Average
+416,7830310,Commission Charter Schools- Fulton Leadership Academy,Combined Test Score,1052,962.0,Below Average
+417,784,Pelham City,Combined Test Score,1052,968.0,Below Average
+418,785,Rome City,Combined Test Score,1052,1089.0,Average
+419,786,Social Circle City,Combined Test Score,1052,1050.0,Average
+420,789,Thomasville City,Combined Test Score,1052,1095.0,Average
+421,791,Trion City,Combined Test Score,1052,1080.0,Average
+422,792,Valdosta City,Combined Test Score,1052,982.0,Below Average
+423,793,Vidalia City,Combined Test Score,1052,1047.0,Average
